@@ -1,0 +1,7794 @@
+{
+    "AAR": {
+        "country": "Denmark",
+        "city": "Aarhus"
+    },
+    "ABD": {
+        "country": "Iran",
+        "city": "Abadan"
+    },
+    "AEH": {
+        "country": "Chad",
+        "city": "Abeche"
+    },
+    "ABZ": {
+        "country": "United Kingdom",
+        "city": "Aberdeen"
+    },
+    "ABR": {
+        "country": "USA",
+        "city": "Aberdeen"
+    },
+    "ABJ": {
+        "country": "Cote d'Ivoire",
+        "city": "Abidjan"
+    },
+    "ABI": {
+        "country": "USA",
+        "city": "Abilene"
+    },
+    "AUH": {
+        "country": "United Arab Emirates",
+        "city": "Abu Dhabi - Abu Dhabi International"
+    },
+    "ABV": {
+        "country": "Nigeria",
+        "city": "Abuja - Nnamdi Azikiwe International Airport"
+    },
+    "AUE": {
+        "country": "Egypt",
+        "city": "Abu Rudeis"
+    },
+    "ABS": {
+        "country": "Egypt",
+        "city": "Abu Simbel"
+    },
+    "ACA": {
+        "country": "Mexico",
+        "city": "Acapulco"
+    },
+    "ACC": {
+        "country": "Ghana",
+        "city": "Accra - Kotoka International Airport"
+    },
+    "ADA": {
+        "country": "Turkey",
+        "city": "Adana"
+    },
+    "ADD": {
+        "country": "Ethiopia",
+        "city": "Addis Ababa - Bole International Airport"
+    },
+    "ADL": {
+        "country": "Australia",
+        "city": "Adelaide"
+    },
+    "ADE": {
+        "country": "Yemen",
+        "city": "Aden - Aden International Airport"
+    },
+    "ADF": {
+        "country": "Turkey",
+        "city": "Adiyaman"
+    },
+    "AER": {
+        "country": "Russia",
+        "city": "Adler/Sochi"
+    },
+    "AJY": {
+        "country": "Niger",
+        "city": "Agades"
+    },
+    "AGA": {
+        "country": "Morocco",
+        "city": "Agadir"
+    },
+    "SUM": {
+        "country": "Guam",
+        "city": "Agana"
+    },
+    "AGZ": {
+        "country": "South Africa",
+        "city": "Aggeneys"
+    },
+    "BQN": {
+        "country": "Puerto Rico",
+        "city": "Aguadilla"
+    },
+    "AGU": {
+        "country": "Mexico",
+        "city": "Aguascaliente"
+    },
+    "AMD": {
+        "country": "India",
+        "city": "Ahmedabad"
+    },
+    "AYU": {
+        "country": "Papua New Guinea",
+        "city": "Aiyura"
+    },
+    "AJA": {
+        "country": "France",
+        "city": "Ajaccio"
+    },
+    "AXT": {
+        "country": "Japan",
+        "city": "Akita"
+    },
+    "CAK": {
+        "country": "USA",
+        "city": "Akron"
+    },
+    "AKT": {
+        "country": "Cyprus",
+        "city": "Akrotiri - RAF"
+    },
+    "AAN": {
+        "country": "United Arab Emirates",
+        "city": "Al Ain"
+    },
+    "AAC": {
+        "country": "Egypt",
+        "city": "Al Arish"
+    },
+    "ALH": {
+        "country": "Australia",
+        "city": "Albany"
+    },
+    "ABY": {
+        "country": "USA",
+        "city": "Albany"
+    },
+    "ALB": {
+        "country": "USA",
+        "city": "Albany"
+    },
+    "LBI": {
+        "country": "France",
+        "city": "Albi"
+    },
+    "AAL": {
+        "country": "Denmark",
+        "city": "Alborg"
+    },
+    "ABQ": {
+        "country": "USA",
+        "city": "Albuquerque"
+    },
+    "ABX": {
+        "country": "Australia",
+        "city": "Albury"
+    },
+    "ACI": {
+        "country": "Channel Islands",
+        "city": "Alderney"
+    },
+    "ALP": {
+        "country": "Syria",
+        "city": "Aleppo"
+    },
+    "AES": {
+        "country": "Norway",
+        "city": "Alesund"
+    },
+    "ALJ": {
+        "country": "South Africa",
+        "city": "Alexander Bay - Kortdoorn"
+    },
+    "HBH": {
+        "country": "Egypt",
+        "city": "Alexandria - Borg el Arab Airport"
+    },
+    "ALY": {
+        "country": "Egypt",
+        "city": "Alexandria - El Nhouza Airport"
+    },
+    "ESF": {
+        "country": "USA",
+        "city": "Alexandria - Esler Field"
+    },
+    "FJR": {
+        "country": "United Arab Emirates",
+        "city": "Fujairah, International Airport"
+    },
+    "AHO": {
+        "country": "Italy",
+        "city": "Alghero Sassari"
+    },
+    "ALG": {
+        "country": "Algeria",
+        "city": "Algiers, Houari Boumediene Airport"
+    },
+    "AHU": {
+        "country": "Morocco",
+        "city": "Al Hoceima"
+    },
+    "ALC": {
+        "country": "Spain",
+        "city": "Alicante"
+    },
+    "ASP": {
+        "country": "Australia",
+        "city": "Alice Springs"
+    },
+    "ADY": {
+        "country": "South Africa",
+        "city": "Alldays"
+    },
+    "ABE": {
+        "country": "USA",
+        "city": "Allentown"
+    },
+    "ALA": {
+        "country": "Kazakhstan",
+        "city": "Almaty"
+    },
+    "LEI": {
+        "country": "Spain",
+        "city": "Almeria"
+    },
+    "ALF": {
+        "country": "Norway",
+        "city": "Alta"
+    },
+    "AAT": {
+        "country": "China",
+        "city": "Altay"
+    },
+    "ACH": {
+        "country": "Switzerland",
+        "city": "Altenrhein"
+    },
+    "AOO": {
+        "country": "USA",
+        "city": "Altoona"
+    },
+    "AXS": {
+        "country": "USA",
+        "city": "Altus"
+    },
+    "ASJ": {
+        "country": "Japan",
+        "city": "Amami"
+    },
+    "AMA": {
+        "country": "USA",
+        "city": "Amarillo"
+    },
+    "AZB": {
+        "country": "Papua New Guinea",
+        "city": "Amazon Bay"
+    },
+    "AMM": {
+        "country": "Jordan",
+        "city": "Amman - Queen Alia International Airport"
+    },
+    "ADJ": {
+        "country": "Jordan",
+        "city": "Amman - Amman-Marka International Airport"
+    },
+    "ATQ": {
+        "country": "India",
+        "city": "Amritsar"
+    },
+    "AMS": {
+        "country": "Netherlands",
+        "city": "Amsterdam - Amsterdam Airport Schiphol"
+    },
+    "QNB": {
+        "country": "India",
+        "city": "Anand"
+    },
+    "ANC": {
+        "country": "USA",
+        "city": "Anchorage"
+    },
+    "AOI": {
+        "country": "Italy",
+        "city": "Ancona - Ancona Falconara Airport"
+    },
+    "ALV": {
+        "country": "Andorra",
+        "city": "Andorra La Vella - Heliport"
+    },
+    "AXA": {
+        "country": "Anguilla",
+        "city": "Anguilla"
+    },
+    "AJN": {
+        "country": "Comoros",
+        "city": "Anjouan - Anjouan Airport"
+    },
+    "ANK": {
+        "country": "Turkey",
+        "city": "Ankara"
+    },
+    "ESB": {
+        "country": "Turkey",
+        "city": "Ankara - Esenbo\u011fa International Airport"
+    },
+    "AAE": {
+        "country": "Algeria",
+        "city": "Annaba"
+    },
+    "ARB": {
+        "country": "USA",
+        "city": "Ann Arbor"
+    },
+    "NCY": {
+        "country": "France",
+        "city": "Annecy"
+    },
+    "ANB": {
+        "country": "USA",
+        "city": "Anniston"
+    },
+    "AYT": {
+        "country": "Turkey",
+        "city": "Antalya"
+    },
+    "TNR": {
+        "country": "Madagascar",
+        "city": "Antananarivo"
+    },
+    "ANU": {
+        "country": "Antigua and Barbuda",
+        "city": "Antigua, VC Bird International"
+    },
+    "ANR": {
+        "country": "Belgium",
+        "city": "Antwerp"
+    },
+    "AOJ": {
+        "country": "Japan",
+        "city": "Aomori"
+    },
+    "APW": {
+        "country": "Samoa",
+        "city": "Apia - Faleolo International Airport"
+    },
+    "ATW": {
+        "country": "USA",
+        "city": "Appelton/Neenah/Menasha"
+    },
+    "AQJ": {
+        "country": "Jordan",
+        "city": "Aqaba"
+    },
+    "AJU": {
+        "country": "Brazil",
+        "city": "Aracaju"
+    },
+    "ARH": {
+        "country": "Russia",
+        "city": "Arkhangelsk"
+    },
+    "ARK": {
+        "country": "Tanzania",
+        "city": "Arusha"
+    },
+    "GPA": {
+        "country": "Greece",
+        "city": "Araxos"
+    },
+    "RLT": {
+        "country": "Niger",
+        "city": "Arlit"
+    },
+    "ACE": {
+        "country": "Spain",
+        "city": "Arrecife/Lanzarote"
+    },
+    "AUA": {
+        "country": "Aruba",
+        "city": "Oranjestad - Reina Beatrix International"
+    },
+    "AVL": {
+        "country": "USA",
+        "city": "Asheville"
+    },
+    "ASB": {
+        "country": "Turkmenistan",
+        "city": "Ashgabat - Saparmurat Turkmenbashy Int Airport"
+    },
+    "ASM": {
+        "country": "Eritrea",
+        "city": "Asmara - Asmara International"
+    },
+    "ASE": {
+        "country": "USA",
+        "city": "Aspen,"
+    },
+    "ATZ": {
+        "country": "Egypt",
+        "city": "Assiut"
+    },
+    "TSE": {
+        "country": "Kazakhstan",
+        "city": "Astana - Astana International Airport"
+    },
+    "ASU": {
+        "country": "Paraguay",
+        "city": "Asuncion - Asunci\u00f3n International Airport"
+    },
+    "ASW": {
+        "country": "Egypt",
+        "city": "Aswan - Daraw Airport"
+    },
+    "ATH": {
+        "country": "Greece",
+        "city": "Athens - Elefth\u00e9rios Veniz\u00e9los International Airport"
+    },
+    "HEW": {
+        "country": "Greece",
+        "city": "Athens, Hellinikon Airport"
+    },
+    "AHN": {
+        "country": "USA",
+        "city": "Athens"
+    },
+    "ATO": {
+        "country": "USA",
+        "city": "Athens"
+    },
+    "ATL": {
+        "country": "USA",
+        "city": "Atlanta"
+    },
+    "ACY": {
+        "country": "USA",
+        "city": "Atlantic City"
+    },
+    "YAT": {
+        "country": "Canada",
+        "city": "Attawapiskat, NT"
+    },
+    "AKL": {
+        "country": "New Zealand",
+        "city": "Auckland - Auckland International Airport"
+    },
+    "AGB": {
+        "country": "Germany",
+        "city": "Augsburg - Augsbur gAirport"
+    },
+    "AGS": {
+        "country": "USA",
+        "city": "Augusta"
+    },
+    "AUG": {
+        "country": "USA",
+        "city": "Augusta"
+    },
+    "AUR": {
+        "country": "France",
+        "city": "Aurillac"
+    },
+    "AUS": {
+        "country": "USA",
+        "city": "Austin"
+    },
+    "AYW": {
+        "country": "Indonesia",
+        "city": "Ayawasi"
+    },
+    "AYQ": {
+        "country": "Australia",
+        "city": "Ayers Rock - Connellan"
+    },
+    "AYR": {
+        "country": "Australia",
+        "city": "Ayr"
+    },
+    "BJZ": {
+        "country": "Spain",
+        "city": "Badajoz"
+    },
+    "BGW": {
+        "country": "Iraq",
+        "city": "Bagdad - Baghdad International Airport"
+    },
+    "IXB": {
+        "country": "India",
+        "city": "Bagdogra"
+    },
+    "NAS": {
+        "country": "Bahamas",
+        "city": "Nassau"
+    },
+    "BHV": {
+        "country": "Pakistan",
+        "city": "Bahawalpur"
+    },
+    "BAH": {
+        "country": "Bahrain",
+        "city": "Bahrain - Bahrain International Airport"
+    },
+    "BFL": {
+        "country": "USA",
+        "city": "Bakersfield"
+    },
+    "BAK": {
+        "country": "Azerbaijan",
+        "city": "Baku - Heydar Aliyev International Airport"
+    },
+    "BNK": {
+        "country": "Australia",
+        "city": "Ballina"
+    },
+    "BWI": {
+        "country": "USA",
+        "city": "Washington DC - Baltimore Washington International"
+    },
+    "ABM": {
+        "country": "Australia",
+        "city": "Bamaga"
+    },
+    "BKO": {
+        "country": "Mali",
+        "city": "Bamako - Bamako-S\u00e9nou International Airport"
+    },
+    "BBY": {
+        "country": "Central African Republic",
+        "city": "Bambari"
+    },
+    "BWN": {
+        "country": "Brunei",
+        "city": "Bandar Seri Begawan - Brunei International Airport"
+    },
+    "BDO": {
+        "country": "Indonesia",
+        "city": "Bandung - Husein Sastranegara International Airport"
+    },
+    "BLR": {
+        "country": "India",
+        "city": "Bangalore"
+    },
+    "BGU": {
+        "country": "Central African Republic",
+        "city": "Bangassou"
+    },
+    "DMK": {
+        "country": "Thailand",
+        "city": "Bangkok, Don Muang"
+    },
+    "BKK": {
+        "country": "Thailand",
+        "city": "Bangkok, Suvarnabhumi International"
+    },
+    "BGR": {
+        "country": "USA",
+        "city": "Bangor"
+    },
+    "BGF": {
+        "country": "Central African Republic",
+        "city": "Bangui - M'Poko International Airport"
+    },
+    "BJL": {
+        "country": "Gambia",
+        "city": "Banjul - Banjul International Airport"
+    },
+    "BNP": {
+        "country": "Pakistan",
+        "city": "Bannu"
+    },
+    "BCN": {
+        "country": "Spain",
+        "city": "Barcelona"
+    },
+    "BLA": {
+        "country": "Venezuela",
+        "city": "Barcelona"
+    },
+    "BDU": {
+        "country": "Norway",
+        "city": "Bardufoss"
+    },
+    "BRI": {
+        "country": "Italy",
+        "city": "Bari"
+    },
+    " BZL": {
+        "country": "Bangladesh",
+        "city": "Barisal"
+    },
+    "BDQ": {
+        "country": "India",
+        "city": "Baroda"
+    },
+    "BRR": {
+        "country": "United Kingdom",
+        "city": "Barra"
+    },
+    "BAQ": {
+        "country": "Colombia",
+        "city": "Barranquilla"
+    },
+    "BSL": {
+        "country": "Switzerland",
+        "city": "Basel"
+    },
+    "EAP": {
+        "country": "Switzerland/France",
+        "city": "Basel/Mulhouse"
+    },
+    "BSR": {
+        "country": "Iraq",
+        "city": "Basra, Basrah"
+    },
+    "PTP": {
+        "country": "Guadeloupe",
+        "city": "Pointe a Pitre"
+    },
+    "SKB": {
+        "country": "St Kitts and Nevis",
+        "city": "St Kitts"
+    },
+    "BIA": {
+        "country": "France",
+        "city": "Bastia"
+    },
+    "BTR": {
+        "country": "USA",
+        "city": "Baton Rouge"
+    },
+    "BYU": {
+        "country": "Germany",
+        "city": "Bayreuth - Bindlacher-Berg"
+    },
+    "BPT": {
+        "country": "USA",
+        "city": "Beaumont/Pt Arthur"
+    },
+    "BKW": {
+        "country": "USA",
+        "city": "Beckley"
+    },
+    "EIS": {
+        "country": "Virgin Islands",
+        "city": "Beef Island - Terrance B Lettsome"
+    },
+    "PEK": {
+        "country": "China",
+        "city": "Beijing"
+    },
+    "NAY": {
+        "country": "China",
+        "city": "Beijing - Nanyuan Airport"
+    },
+    "BEW": {
+        "country": "Mozambique",
+        "city": "Beira"
+    },
+    "BEY": {
+        "country": "Lebanon",
+        "city": "Beirut - Beirut Rafic Hariri International Airport"
+    },
+    "BEL": {
+        "country": "Brazil",
+        "city": "Belem - Val de Cans International Airport"
+    },
+    "BHD": {
+        "country": "United Kingdom",
+        "city": "Belfast - George Best Belfast City Airport"
+    },
+    "BFS": {
+        "country": "United Kingdom",
+        "city": "Belfast - Belfast International Airport"
+    },
+    "IXG": {
+        "country": "India",
+        "city": "Belgaum"
+    },
+    "BEG": {
+        "country": "Serbia",
+        "city": "Belgrad"
+    },
+    "BZE": {
+        "country": "Belize",
+        "city": "Belize City - Philip SWGoldson International"
+    },
+    "BLI": {
+        "country": "USA",
+        "city": "Bellingham"
+    },
+    "CNF": {
+        "country": "Brazil",
+        "city": "Belo Horizonte - Tancredo Neves International Airport"
+    },
+    "BJI": {
+        "country": "USA",
+        "city": "Bemidji"
+    },
+    "BEB": {
+        "country": "United Kingdom",
+        "city": "Benbecula"
+    },
+    "BEN": {
+        "country": "Libya",
+        "city": "Benghazi"
+    },
+    "BUG": {
+        "country": "Angola",
+        "city": "Benguela"
+    },
+    "BEH": {
+        "country": "USA",
+        "city": "Benton Harbour"
+    },
+    "BBT": {
+        "country": "Central African Republic",
+        "city": "Berberati"
+    },
+    "BGY": {
+        "country": "Italy",
+        "city": "Milan - Orio Al Serio"
+    },
+    "BGO": {
+        "country": "Norway",
+        "city": "Bergen"
+    },
+    "EGC": {
+        "country": "France",
+        "city": "Bergerac - Roumanieres"
+    },
+    "BER": {
+        "country": "Germany",
+        "city": "Berlin"
+    },
+    "SXF": {
+        "country": "Germany",
+        "city": "Berlin, Schoenefeld"
+    },
+    "TXL": {
+        "country": "Germany",
+        "city": "Berlin, Tegel"
+    },
+    "THF": {
+        "country": "Germany",
+        "city": "Berlin, Tempelhof"
+    },
+    "BDA": {
+        "country": "Bermuda",
+        "city": "Bermuda - LF Wade International Airport"
+    },
+    "BRN": {
+        "country": "Switzerland",
+        "city": "Berne, Bern-Belp"
+    },
+    "ZDJ": {
+        "country": "Switzerland",
+        "city": "Berne, Railway Service"
+    },
+    "BET": {
+        "country": "USA",
+        "city": "Bethel"
+    },
+    "BHO": {
+        "country": "India",
+        "city": "Bhopal"
+    },
+    "BBI": {
+        "country": "India",
+        "city": "Bhubaneswar"
+    },
+    "BIQ": {
+        "country": "France",
+        "city": "Biarritz"
+    },
+    "BIO": {
+        "country": "Spain",
+        "city": "Bilbao"
+    },
+    "BIL": {
+        "country": "USA",
+        "city": "Billings"
+    },
+    "BLL": {
+        "country": "Denmark",
+        "city": "Billund"
+    },
+    "BTU": {
+        "country": "Malaysia",
+        "city": "Bintulu"
+    },
+    "IRO": {
+        "country": "Central African Republic",
+        "city": "Biraro"
+    },
+    "BHX": {
+        "country": "United Kingdom",
+        "city": "Birmingham - Birmingham International Airport"
+    },
+    "BHM": {
+        "country": "USA",
+        "city": "Birmingham"
+    },
+    "FRU": {
+        "country": "Kyrgyzstan",
+        "city": "Bishkek - Manas International Airport"
+    },
+    "BIS": {
+        "country": "USA",
+        "city": "Bismarck"
+    },
+    "BXO": {
+        "country": "Guinea-Bissau",
+        "city": "Bissau - Osvaldo Vieiro International Airport"
+    },
+    "BLK": {
+        "country": "United Kingdom",
+        "city": "Blackpool"
+    },
+    "BLT": {
+        "country": "Australia",
+        "city": "Blackwater"
+    },
+    "BLZ": {
+        "country": "Malawi",
+        "city": "Blantyre"
+    },
+    "BHE": {
+        "country": "New Zealand",
+        "city": "Blenheim"
+    },
+    "BFN": {
+        "country": "South Africa",
+        "city": "Bloemfontein - Bloemfontein Airport"
+    },
+    "BMI": {
+        "country": "USA",
+        "city": "Bloomington"
+    },
+    "BMG": {
+        "country": "USA",
+        "city": "Bloomington"
+    },
+    "BLF": {
+        "country": "USA",
+        "city": "Bluefield"
+    },
+    "BVB": {
+        "country": "Brazil",
+        "city": "Boa Vista"
+    },
+    "BOY": {
+        "country": "Burkina Faso",
+        "city": "Bobo/Dioulasso"
+    },
+    "BOO": {
+        "country": "Norway",
+        "city": "Bodo"
+    },
+    "BJV": {
+        "country": "Turkey",
+        "city": "Bodrum - Milas Airport"
+    },
+    "BOG": {
+        "country": "Colombia",
+        "city": "Bogota - El Nuevo Dorado International Airport"
+    },
+    "BOI": {
+        "country": "USA",
+        "city": "Boise"
+    },
+    "BLQ": {
+        "country": "Italy",
+        "city": "Bologna"
+    },
+    "BOM": {
+        "country": "India",
+        "city": "Bombay"
+    },
+    "BON": {
+        "country": "Netherlands Antilles",
+        "city": "Bonaire"
+    },
+    "YVB": {
+        "country": "Canada",
+        "city": "Bonaventure, PQ"
+    },
+    "BOB": {
+        "country": "French Polynesia",
+        "city": "Bora Bora"
+    },
+    "BOD": {
+        "country": "France",
+        "city": "Bordeaux - Bordeaux Airport"
+    },
+    "BXS": {
+        "country": "USA",
+        "city": "Borrego Springs"
+    },
+    "BOS": {
+        "country": "USA",
+        "city": "Boston"
+    },
+    "BYK": {
+        "country": "Cote d'Ivoire",
+        "city": "Bouake"
+    },
+    "BOJ": {
+        "country": "Bulgaria",
+        "city": "Bourgas/Burgas"
+    },
+    "BOH": {
+        "country": "United Kingdom",
+        "city": "Bournemouth"
+    },
+    "ZBO": {
+        "country": "Australia",
+        "city": "Bowen"
+    },
+    "BZN": {
+        "country": "USA",
+        "city": "Bozeman"
+    },
+    "BFD": {
+        "country": "USA",
+        "city": "Bradford/Warren"
+    },
+    "BRD": {
+        "country": "USA",
+        "city": "Brainerd"
+    },
+    "BMP": {
+        "country": "Australia",
+        "city": "Brampton Island"
+    },
+    "BSB": {
+        "country": "Brazil",
+        "city": "Brasilia - President Juscelino Kubitschek International"
+    },
+    "BTS": {
+        "country": "Slovakia",
+        "city": "Bratislava - M R \u0160tef\u00e1nik Airport"
+    },
+    "BZV": {
+        "country": "Congo",
+        "city": "Brazzaville - Maya-Maya Airport"
+    },
+    "BRE": {
+        "country": "Germany",
+        "city": "Bremen - Bremen Airport"
+    },
+    "VBS": {
+        "country": "Italy",
+        "city": "Verona"
+    },
+    "BES": {
+        "country": "France",
+        "city": "Brest"
+    },
+    "BIV": {
+        "country": "Central African Republic",
+        "city": "Bria"
+    },
+    "BDR": {
+        "country": "USA",
+        "city": "Bridgeport"
+    },
+    "BGI": {
+        "country": "Barbados",
+        "city": "Bridgetown - Grantley Adams International"
+    },
+    "BDS": {
+        "country": "Italy",
+        "city": "Brindisi"
+    },
+    "BNE": {
+        "country": "Australia",
+        "city": "Brisbane"
+    },
+    "BRS": {
+        "country": "United Kingdom",
+        "city": "Bristol"
+    },
+    "BNN": {
+        "country": "Norway",
+        "city": "Broennoeysund"
+    },
+    "BHQ": {
+        "country": "Australia",
+        "city": "Broken Hill"
+    },
+    "BKX": {
+        "country": "USA",
+        "city": "Brookings"
+    },
+    "BME": {
+        "country": "Australia",
+        "city": "Broome"
+    },
+    "BQK": {
+        "country": "USA",
+        "city": "Brunswick"
+    },
+    "BRU": {
+        "country": "Belgium",
+        "city": "Brussels - Brussels Airport"
+    },
+    "BGA": {
+        "country": "Colombia",
+        "city": "Bucaramanga"
+    },
+    "BUH": {
+        "country": "Romania",
+        "city": "Bucharest"
+    },
+    "OTP": {
+        "country": "Romania",
+        "city": "Bucharest - Henri Coand\u0103 International Airport"
+    },
+    "BUD": {
+        "country": "Hungary",
+        "city": "Budapest - Budapest Ferihegy International Airport"
+    },
+    "BUE": {
+        "country": "Argentina",
+        "city": "Buenos Aires"
+    },
+    "EZE": {
+        "country": "Argentina",
+        "city": "Buenos Aires, Ezeiza International Airport"
+    },
+    "AEP": {
+        "country": "Argentina",
+        "city": "Buenos Aires, Jorge Newbery"
+    },
+    "BFO": {
+        "country": "Zimbabwe",
+        "city": "Buffalo Range"
+    },
+    "BUF": {
+        "country": "USA",
+        "city": "Buffalo/Niagara Falls"
+    },
+    "BJM": {
+        "country": "Burundi",
+        "city": "Bujumbura - Bujumbura International Airport"
+    },
+    "BUQ": {
+        "country": "Zimbabwe",
+        "city": "Bulawayo"
+    },
+    "BHC": {
+        "country": "USA",
+        "city": "Bullhead City"
+    },
+    "BDB": {
+        "country": "Australia",
+        "city": "Bundaberg"
+    },
+    "BUR": {
+        "country": "USA",
+        "city": "Burbank"
+    },
+    "BRL": {
+        "country": "USA",
+        "city": "Burlington IA"
+    },
+    "BTV": {
+        "country": "USA",
+        "city": "Burlington"
+    },
+    "BWT": {
+        "country": "Australia",
+        "city": "Burnie"
+    },
+    "BTM": {
+        "country": "USA",
+        "city": "Butte"
+    },
+    "CAB": {
+        "country": "Angola",
+        "city": "Cabinda"
+    },
+    "CAG": {
+        "country": "Italy",
+        "city": "Cagliari"
+    },
+    "CNS": {
+        "country": "Australia",
+        "city": "Cairns"
+    },
+    "CAI": {
+        "country": "Egypt",
+        "city": "Cairo - Cairo International Airport "
+    },
+    "CJC": {
+        "country": "Chile",
+        "city": "Calama - El Loa"
+    },
+    "CCU": {
+        "country": "India",
+        "city": "Kolkata"
+    },
+    "YYC": {
+        "country": "Canada",
+        "city": "Calgary - Calgary International Airport"
+    },
+    "CLO": {
+        "country": "Colombia",
+        "city": "Cali"
+    },
+    "CCJ": {
+        "country": "India",
+        "city": "Calicut"
+    },
+    "CLY": {
+        "country": "France",
+        "city": "Calvi"
+    },
+    "YCB": {
+        "country": "Canada",
+        "city": "Cambridge Bay"
+    },
+    "CBG": {
+        "country": "United Kingdom",
+        "city": "Cambrigde"
+    },
+    "CAL": {
+        "country": "United Kingdom",
+        "city": "Campbeltown"
+    },
+    "CGR": {
+        "country": "Brazil",
+        "city": "Campo Grande"
+    },
+    "CBR": {
+        "country": "Australia",
+        "city": "Canberra - Canberra Airport"
+    },
+    "CUN": {
+        "country": "Mexico",
+        "city": "Cancun"
+    },
+    "CEQ": {
+        "country": "France",
+        "city": "Cannes \u2013 Mandelieu Airport"
+    },
+    "CIW": {
+        "country": "Saint Vincent & the Grenadines",
+        "city": "Canouan"
+    },
+    "CPT": {
+        "country": "South Africa",
+        "city": "Cape Town - Cape Town International Airport"
+    },
+    "CCS": {
+        "country": "Venezuela",
+        "city": "Caracas - Sim\u00f3n Bol\u00edvar International Airport"
+    },
+    "CWL": {
+        "country": "United Kingdom",
+        "city": "Cardiff - Cardiff Airport"
+    },
+    "CLD": {
+        "country": "USA",
+        "city": "Carlsbad"
+    },
+    "CVQ": {
+        "country": "Australia",
+        "city": "Carnarvon"
+    },
+    "CRF": {
+        "country": "Central African Republic",
+        "city": "Carnot"
+    },
+    "CSN": {
+        "country": "USA",
+        "city": "Carson City"
+    },
+    "CAS": {
+        "country": "Morocco",
+        "city": "Casablanca"
+    },
+    "CMN": {
+        "country": "Morocco",
+        "city": "Casablanca, Mohamed V"
+    },
+    "LRM": {
+        "country": "Dominican Republic",
+        "city": "Casa de Campo - La Romana International Airport"
+    },
+    "CSI": {
+        "country": "Australia",
+        "city": "Casino"
+    },
+    "CPR": {
+        "country": "USA",
+        "city": "Casper"
+    },
+    "CST": {
+        "country": "Fiji",
+        "city": "Castaway"
+    },
+    "CTG": {
+        "country": "Colombia",
+        "city": "Cartagena - Rafael N\u00fa\u00f1ez International Airport"
+    },
+    "SLU": {
+        "country": "Saint Lucia",
+        "city": "St Lucia Vigle"
+    },
+    "CTA": {
+        "country": "Italy",
+        "city": "Catania"
+    },
+    "CAY": {
+        "country": "French Guiana",
+        "city": "Cayenne - Cayenne-Rochambeau Airport"
+    },
+    "CBU": {
+        "country": "Germany",
+        "city": "Cottbus - Cottbus-Drewitz Airport"
+    },
+    "CEB": {
+        "country": "Philippines",
+        "city": "Cebu City - Mactan-Cebu International"
+    },
+    "CDC": {
+        "country": "USA",
+        "city": "Cedar City"
+    },
+    "CID": {
+        "country": "USA",
+        "city": "Cedar Rapids IA"
+    },
+    "CED": {
+        "country": "Australia",
+        "city": "Ceduna"
+    },
+    "CES": {
+        "country": "Australia",
+        "city": "Cessnock"
+    },
+    "KHV": {
+        "country": "Russia",
+        "city": "Chabarovsk"
+    },
+    "CMF": {
+        "country": "France",
+        "city": "Chambery"
+    },
+    "CMI": {
+        "country": "USA",
+        "city": "Champaign"
+    },
+    "IXC": {
+        "country": "India",
+        "city": "Chandigarh - Chandigarh International Airport"
+    },
+    "CGQ": {
+        "country": "Jilin, PR China",
+        "city": "Changchun"
+    },
+    "CHQ": {
+        "country": "Greece",
+        "city": "Chania"
+    },
+    "CHG": {
+        "country": "China",
+        "city": "Chaoyang, Beijing - Chaoyang Airport"
+    },
+    "CHS": {
+        "country": "USA",
+        "city": "Charleston"
+    },
+    "CRW": {
+        "country": "USA",
+        "city": "Charleston"
+    },
+    "CLT": {
+        "country": "USA",
+        "city": "Charlotte"
+    },
+    "CHO": {
+        "country": "USA",
+        "city": "Charlottesville"
+    },
+    "CXT": {
+        "country": "Australia",
+        "city": "Charters Towers"
+    },
+    "CHA": {
+        "country": "USA",
+        "city": "Chattanooga"
+    },
+    "CTU": {
+        "country": "Sichuan, PR China",
+        "city": "Chengdu - Shuangliu"
+    },
+    "MAA": {
+        "country": "India",
+        "city": "Madras"
+    },
+    "CYS": {
+        "country": "USA",
+        "city": "Cheyenne"
+    },
+    "CNX": {
+        "country": "Thailand",
+        "city": "Chiang Mai - Chiang Mai International Airport"
+    },
+    "QCB": {
+        "country": "Japan",
+        "city": "Chiba City"
+    },
+    "MDW": {
+        "country": "USA",
+        "city": "Chicago"
+    },
+    "ORD": {
+        "country": "USA",
+        "city": "Chicago"
+    },
+    "CHI": {
+        "country": "USA",
+        "city": "Chicago"
+    },
+    "CZA": {
+        "country": "Mexico",
+        "city": "Chichen Itza"
+    },
+    "CIC": {
+        "country": "USA",
+        "city": "Chico"
+    },
+    "CUU": {
+        "country": "Mexico",
+        "city": "Chihuahua - Gen Fierro Villalobos"
+    },
+    "JKH": {
+        "country": "Greece",
+        "city": "Chios"
+    },
+    "CIP": {
+        "country": "Zambia",
+        "city": "Chipata"
+    },
+    "KIV": {
+        "country": "Moldova",
+        "city": "Chisinau - Chi\u015fin\u0103u International Airport"
+    },
+    "HTA": {
+        "country": "Russia",
+        "city": "Chita"
+    },
+    "CTS": {
+        "country": "Japan",
+        "city": "Sapporo - New Chitose Airport"
+    },
+    "CJL": {
+        "country": "Pakistan",
+        "city": "Chitral"
+    },
+    "CGP": {
+        "country": "Bangladesh",
+        "city": "Chittagong"
+    },
+    "CKG": {
+        "country": "Sichuan, PR China",
+        "city": "Chongqing - Jiangbei International Airport"
+    },
+    "CHC": {
+        "country": "New Zealand",
+        "city": "Christchurch"
+    },
+    "CCZ": {
+        "country": "Bahamas",
+        "city": "Chub Cay"
+    },
+    "YYQ": {
+        "country": "Canada",
+        "city": "Churchill"
+    },
+    "CFG": {
+        "country": "Cuba",
+        "city": "Cienfuegos - Jaime Gonz\u00e1lez Airport"
+    },
+    "CVG": {
+        "country": "USA",
+        "city": "Cincinnati"
+    },
+    "CME": {
+        "country": "Mexico",
+        "city": "Ciudad Del Carmen"
+    },
+    "CGU": {
+        "country": "Venezuela",
+        "city": "Ciudad Guayana"
+    },
+    "CJS": {
+        "country": "Mexico",
+        "city": "Ciudad Juarez"
+    },
+    "CEN": {
+        "country": "Mexico",
+        "city": "Ciudad Obregon"
+    },
+    "CVM": {
+        "country": "Mexico",
+        "city": "Ciudad Victoria"
+    },
+    "CKB": {
+        "country": "USA",
+        "city": "Clarksburg"
+    },
+    "CMQ": {
+        "country": "Australia",
+        "city": "Clermont"
+    },
+    "CFE": {
+        "country": "France",
+        "city": "Clermont Ferrand"
+    },
+    "BKL": {
+        "country": "USA",
+        "city": "Cleveland"
+    },
+    "CLE": {
+        "country": "USA",
+        "city": "Cleveland"
+    },
+    "CBB": {
+        "country": "Bolivia",
+        "city": "Cochabamba"
+    },
+    "COK": {
+        "country": "India",
+        "city": "Cochin"
+    },
+    "COD": {
+        "country": "USA",
+        "city": "Cody/Powell/Yellowstone"
+    },
+    "KCC": {
+        "country": "USA",
+        "city": "Coffmann Cove"
+    },
+    "CFS": {
+        "country": "Australia",
+        "city": "Coffs Harbour"
+    },
+    "CJB": {
+        "country": "India",
+        "city": "Coimbatore"
+    },
+    "CLQ": {
+        "country": "Mexico",
+        "city": "Colima"
+    },
+    "CLL": {
+        "country": "USA",
+        "city": "College Station/Bryan"
+    },
+    "KCE": {
+        "country": "Australia",
+        "city": "Collinsville"
+    },
+    "CGN": {
+        "country": "Germany",
+        "city": "K\u00f6ln, K\u00f6ln/Bonn"
+    },
+    "CMB": {
+        "country": "Sri Lanka",
+        "city": "Colombo - Bandaranaike International Airport"
+    },
+    "COS": {
+        "country": "USA",
+        "city": "Colorado Springs"
+    },
+    "CAE": {
+        "country": "USA",
+        "city": "Columbia"
+    },
+    "CSG": {
+        "country": "USA",
+        "city": "Columbus"
+    },
+    "CMH": {
+        "country": "USA",
+        "city": "Columbus"
+    },
+    "CKY": {
+        "country": "Guinea",
+        "city": "Conakry - Conakry International Airport"
+    },
+    "CCR": {
+        "country": "USA",
+        "city": "Concord"
+    },
+    "CON": {
+        "country": "USA",
+        "city": "Concord"
+    },
+    "CZL": {
+        "country": "Algeria",
+        "city": "Constantine"
+    },
+    "CND": {
+        "country": "Romania",
+        "city": "Constanta"
+    },
+    "CPD": {
+        "country": "Australia",
+        "city": "Coober Pedy"
+    },
+    "CTN": {
+        "country": "Australia",
+        "city": "Cooktown"
+    },
+    "OOM": {
+        "country": "Australia",
+        "city": "Cooma"
+    },
+    "CPH": {
+        "country": "Denmark",
+        "city": "Copenhagen - Copenhagen Airport"
+    },
+    "COR": {
+        "country": "Argentina",
+        "city": "Cordoba"
+    },
+    "ODB": {
+        "country": "Spain",
+        "city": "Cordoba"
+    },
+    "CDV": {
+        "country": "USA",
+        "city": "Cordova"
+    },
+    "CFU": {
+        "country": "Greece",
+        "city": "Corfu"
+    },
+    "ORK": {
+        "country": "Ireland",
+        "city": "Cork"
+    },
+    "CRP": {
+        "country": "USA",
+        "city": "Corpus Christi"
+    },
+    "COO": {
+        "country": "Benin",
+        "city": "Cotonou - Cotonou Cadjehoun Airport"
+    },
+    "CVT": {
+        "country": "United Kingdom",
+        "city": "Coventry - Baginton"
+    },
+    "CZM": {
+        "country": "Mexico",
+        "city": "Cozmel"
+    },
+    "CGA": {
+        "country": "USA",
+        "city": "Craig"
+    },
+    "CEC": {
+        "country": "USA",
+        "city": "Crescent City"
+    },
+    "CGB": {
+        "country": "Brazil",
+        "city": "Cuiaba - Marechal Rondon International Airport"
+    },
+    "CUL": {
+        "country": "Mexico",
+        "city": "Culiacan"
+    },
+    "CUR": {
+        "country": "Netherlands Antilles",
+        "city": "Curacao - Cura\u00e7ao International Airport"
+    },
+    "CWB": {
+        "country": "Brazil",
+        "city": "Curitiba - Afonso Pena International Airport"
+    },
+    "CYU": {
+        "country": "Philippines",
+        "city": "Cuyo"
+    },
+    "DKR": {
+        "country": "Senegal",
+        "city": "Dakar - L\u00e9opold S\u00e9dar Senghor International Airport"
+    },
+    "DLM": {
+        "country": "Turkey",
+        "city": "Dalaman"
+    },
+    "DBY": {
+        "country": "Australia",
+        "city": "Dalby"
+    },
+    "DLC": {
+        "country": "Liaoning, PR China",
+        "city": "Dalian - Zhoushuizi International Airport"
+    },
+    "DAL": {
+        "country": "USA",
+        "city": "Dallas"
+    },
+    "DFW": {
+        "country": "USA",
+        "city": "Fort Worth"
+    },
+    "DJO": {
+        "country": "Cote d'Ivoire",
+        "city": "Daloa"
+    },
+    "DAM": {
+        "country": "Syria",
+        "city": "Damascus, International"
+    },
+    "DMM": {
+        "country": "Saudi Arabien",
+        "city": "Dammam, King Fahad International"
+    },
+    "DAN": {
+        "country": "USA",
+        "city": "Danville"
+    },
+    "DAR": {
+        "country": "Tanzania",
+        "city": "Dar es Salam"
+    },
+    "DRW": {
+        "country": "Australia",
+        "city": "Darwin"
+    },
+    "DDI": {
+        "country": "Australia",
+        "city": "Daydream Island"
+    },
+    "DAY": {
+        "country": "USA",
+        "city": "Dayton"
+    },
+    "DAB": {
+        "country": "USA",
+        "city": "Daytona Beach"
+    },
+    "DEC": {
+        "country": "USA",
+        "city": "Decatur"
+    },
+    "YDF": {
+        "country": "Canada",
+        "city": "Deer Lake/Corner Brook"
+    },
+    "DEL": {
+        "country": "India",
+        "city": "Delhi - Indira Gandhi International Airport"
+    },
+    "HAG": {
+        "country": "Netherlands",
+        "city": "Den Haag"
+    },
+    "DNZ": {
+        "country": "Turkey",
+        "city": "Denizli"
+    },
+    "DPS": {
+        "country": "Indonesia",
+        "city": "Denpasar/Bali"
+    },
+    "DEN": {
+        "country": "USA",
+        "city": "Denver"
+    },
+    "DSK": {
+        "country": "Pakistan",
+        "city": "Dera Ismail Khan - Dera Ismail Khan Airport"
+    },
+    "DRB": {
+        "country": "Australia",
+        "city": "Derby"
+    },
+    "LDY": {
+        "country": "United Kingdom",
+        "city": "Londonderry - Eglinton"
+    },
+    "DSM": {
+        "country": "USA",
+        "city": "Des Moines"
+    },
+    "DET": {
+        "country": "USA",
+        "city": "Detroit"
+    },
+    "DTW": {
+        "country": "USA",
+        "city": "Detroit"
+    },
+    "DTT": {
+        "country": "USA",
+        "city": "Detroit"
+    },
+    "DVL": {
+        "country": "USA",
+        "city": "Devils Lake"
+    },
+    "DPO": {
+        "country": "Australia",
+        "city": "Devonport"
+    },
+    "DHA": {
+        "country": "Saudi Arabia",
+        "city": "Dhahran"
+    },
+    "DAC": {
+        "country": "Bangladesh",
+        "city": "Dhaka - Zia International Airport"
+    },
+    "DIL": {
+        "country": "Timor Leste",
+        "city": "Dili - Nicolau Lobato International Airport"
+    },
+    "DLG": {
+        "country": "USA",
+        "city": "Dillingham"
+    },
+    "DNR": {
+        "country": "France",
+        "city": "Dinard"
+    },
+    "DLP": {
+        "country": "France",
+        "city": "Disneyland Paris"
+    },
+    "DJE": {
+        "country": "Tunisia",
+        "city": "Djerba"
+    },
+    "JIB": {
+        "country": "Djibouti",
+        "city": "Djibouti"
+    },
+    "DOD": {
+        "country": "Tanzania",
+        "city": "Dodoma - Dodoma Airport"
+    },
+    "DOH": {
+        "country": "Qatar",
+        "city": "Doha - Doha International Airport"
+    },
+    "DSA": {
+        "country": "United Kingdom",
+        "city": "Sheffield, Doncaster, Robin Hood International Airport"
+    },
+    "CFN": {
+        "country": "Ireland",
+        "city": "Donegal"
+    },
+    "DTM": {
+        "country": "Germany",
+        "city": "Dortmund"
+    },
+    "DHN": {
+        "country": "USA",
+        "city": "Dothan"
+    },
+    "DLA": {
+        "country": "Cameroon",
+        "city": "Douala"
+    },
+    "DRS": {
+        "country": "Germany",
+        "city": "Dresden - Dresden Airport"
+    },
+    "DXB": {
+        "country": "United Arab Emirates",
+        "city": "Dubai - Dubai International Airport"
+    },
+    "DBO": {
+        "country": "Australia",
+        "city": "Dubbo"
+    },
+    "DUB": {
+        "country": "Ireland",
+        "city": "Dublin - Dublin International Airport"
+    },
+    "DUJ": {
+        "country": "USA",
+        "city": "Dubois"
+    },
+    "DBV": {
+        "country": "Croatia",
+        "city": "Dubrovnik"
+    },
+    "DBQ": {
+        "country": "USA",
+        "city": "Dubuque IA"
+    },
+    "DUS": {
+        "country": "Germany",
+        "city": "Duesseldorf - D\u00fcsseldorf International Airport"
+    },
+    "DLH": {
+        "country": "USA",
+        "city": "Duluth"
+    },
+    "DND": {
+        "country": "United Kingdom",
+        "city": "Dundee"
+    },
+    "DUD": {
+        "country": "New Zealand",
+        "city": "Dunedin"
+    },
+    "DKI": {
+        "country": "Australia",
+        "city": "Dunk Island"
+    },
+    "DRO": {
+        "country": "USA",
+        "city": "Durango"
+    },
+    "DUR": {
+        "country": "South Africa",
+        "city": "Durban"
+    },
+    "DYU": {
+        "country": "Tajikistan",
+        "city": "Dushanbe"
+    },
+    "DUT": {
+        "country": "USA",
+        "city": "Dutch Harbor"
+    },
+    "DYA": {
+        "country": "Australia",
+        "city": "Dysart"
+    },
+    "DZA": {
+        "country": "Mayotte",
+        "city": "Dzaoudzi"
+    },
+    "ELS": {
+        "country": "South Africa",
+        "city": "East London"
+    },
+    "IPC": {
+        "country": "Chile",
+        "city": "Easter Island"
+    },
+    "EAU": {
+        "country": "USA",
+        "city": "Eau Clarie"
+    },
+    "EDI": {
+        "country": "Scotland, UK",
+        "city": "Edinburgh - Edinburgh Airport"
+    },
+    "YEA": {
+        "country": "Canada",
+        "city": "Edmonton"
+    },
+    "YEG": {
+        "country": "Canada",
+        "city": "Edmonton, International"
+    },
+    "YXD": {
+        "country": "Canada",
+        "city": "Edmonton, Municipal"
+    },
+    "EGS": {
+        "country": "Iceland",
+        "city": "Egilsstadir"
+    },
+    "EIN": {
+        "country": "Netherlands",
+        "city": "Eindhoven"
+    },
+    "AZS": {
+        "country": "Dominican Republic",
+        "city": "Samana - Saman\u00e1 El Catey International Airport"
+    },
+    "EBA": {
+        "country": "Italy",
+        "city": "Elba Island, Marina Di Campo"
+    },
+    "ETH": {
+        "country": "Israel",
+        "city": "Elat"
+    },
+    "VDA": {
+        "country": "Israel",
+        "city": "Elat, Ovula"
+    },
+    "EKI": {
+        "country": "USA",
+        "city": "Elkhart"
+    },
+    "EKO": {
+        "country": "USA",
+        "city": "Elko"
+    },
+    "ELL": {
+        "country": "South Africa",
+        "city": "Ellisras"
+    },
+    "EMY": {
+        "country": "Egypt",
+        "city": "El Minya"
+    },
+    "ELM": {
+        "country": "USA",
+        "city": "Elmira"
+    },
+    "ELP": {
+        "country": "USA",
+        "city": "El Paso"
+    },
+    "ELY": {
+        "country": "USA",
+        "city": "Ely"
+    },
+    "EDR": {
+        "country": "Australia",
+        "city": "Emerald"
+    },
+    "EMD": {
+        "country": "Australia",
+        "city": "Emerald"
+    },
+    "ENF": {
+        "country": "Finland",
+        "city": "Enontekioe"
+    },
+    "EBB": {
+        "country": "Uganda",
+        "city": "Entebbe - Entebbe International Airport"
+    },
+    "ERF": {
+        "country": "Germany",
+        "city": "Erfurt - Erfurt Airport"
+    },
+    "ERI": {
+        "country": "USA",
+        "city": "Erie"
+    },
+    "EVN": {
+        "country": "Armenia",
+        "city": "Eriwan"
+    },
+    "ERC": {
+        "country": "Turkey",
+        "city": "Erzincan"
+    },
+    "ERZ": {
+        "country": "Turkey",
+        "city": "Erzurum"
+    },
+    "EBJ": {
+        "country": "Denmark",
+        "city": "Esbjerg"
+    },
+    "ESC": {
+        "country": "USA",
+        "city": "Escanaba"
+    },
+    "EPR": {
+        "country": "Australia",
+        "city": "Esperance"
+    },
+    "EUG": {
+        "country": "USA",
+        "city": "Eugene"
+    },
+    "ACV": {
+        "country": "USA",
+        "city": "Eureka"
+    },
+    "EVV": {
+        "country": "USA",
+        "city": "Evansville"
+    },
+    "EVE": {
+        "country": "Norway",
+        "city": "Evenes"
+    },
+    "EXT": {
+        "country": "United Kingdom",
+        "city": "Exeter"
+    },
+    "FAI": {
+        "country": "USA",
+        "city": "Fairbanks"
+    },
+    "FIE": {
+        "country": "United Kingdom",
+        "city": "Fair Isle"
+    },
+    "LYP": {
+        "country": "Pakistan",
+        "city": "Faisalabad"
+    },
+    "FAR": {
+        "country": "USA",
+        "city": "Fargo"
+    },
+    "FMN": {
+        "country": "USA",
+        "city": "Farmington"
+    },
+    "FAO": {
+        "country": "Portugal",
+        "city": "Faro"
+    },
+    "FAE": {
+        "country": "Denmark",
+        "city": "Faroer - V\u00e1gar Airport "
+    },
+    "FYV": {
+        "country": "USA",
+        "city": "Fayetteville"
+    },
+    "FAY": {
+        "country": "USA",
+        "city": "Fayetteville/Ft Bragg"
+    },
+    "FEZ": {
+        "country": "Morocco",
+        "city": "Fes"
+    },
+    "FSC": {
+        "country": "France",
+        "city": "Figari"
+    },
+    "FLG": {
+        "country": "USA",
+        "city": "Flagstaff"
+    },
+    "YFO": {
+        "country": "Canada",
+        "city": "Flin Flon"
+    },
+    "FNT": {
+        "country": "USA",
+        "city": "Flint"
+    },
+    "FLR": {
+        "country": "Italy",
+        "city": "Florence"
+    },
+    "FLO": {
+        "country": "USA",
+        "city": "Florence"
+    },
+    "FLN": {
+        "country": "Brazil",
+        "city": "Florianopolis"
+    },
+    "FRO": {
+        "country": "Norway",
+        "city": "Floro"
+    },
+    "YFA": {
+        "country": "Canada",
+        "city": "Fort Albert"
+    },
+    "FOR": {
+        "country": "Brazil",
+        "city": "Fortaleza - Pinto Martins Airport"
+    },
+    "FDF": {
+        "country": "Martinique",
+        "city": "Fort de France - Martinique Aim\u00e9 C\u00e9saire International"
+    },
+    "FOD": {
+        "country": "USA",
+        "city": "Fort Dodge IA"
+    },
+    "FHU": {
+        "country": "USA",
+        "city": "Fort Huachuca/Sierra Vista"
+    },
+    "FLL": {
+        "country": "USA",
+        "city": "Fort Lauderdale/Hollywood"
+    },
+    "YMM": {
+        "country": "Canada",
+        "city": "Fort McMurray"
+    },
+    "FMY": {
+        "country": "USA",
+        "city": "Fort Myers, Metropolitan Area"
+    },
+    "RSW": {
+        "country": "USA",
+        "city": "Fort Myers, Southwest Florida Reg"
+    },
+    "FRI": {
+        "country": "USA",
+        "city": "Fort Riley"
+    },
+    "YSM": {
+        "country": "Canada",
+        "city": "Fort Smith"
+    },
+    "FSM": {
+        "country": "USA",
+        "city": "Fort Smith"
+    },
+    "YXJ": {
+        "country": "Canada",
+        "city": "Fort St John"
+    },
+    "VPS": {
+        "country": "USA",
+        "city": "Fort Walton Beach"
+    },
+    "FWA": {
+        "country": "USA",
+        "city": "Fort Wayne"
+    },
+    "FOU": {
+        "country": "United Kingdom",
+        "city": "Foula"
+    },
+    "FRW": {
+        "country": "Botswana",
+        "city": "Francistown"
+    },
+    "FRA": {
+        "country": "Germany",
+        "city": "Frankfurt/Main - Frankfurt Airport"
+    },
+    "HHN": {
+        "country": "Germany",
+        "city": "Frankfurt/Hahn"
+    },
+    "FKL": {
+        "country": "USA",
+        "city": "Franklin/Oil City"
+    },
+    "YFC": {
+        "country": "Canada",
+        "city": "Fredericton"
+    },
+    "FPO": {
+        "country": "Bahamas",
+        "city": "Grand Bahama International"
+    },
+    "FNA": {
+        "country": "Sierra Leone",
+        "city": "Freetown - Freetown-Lungi International Airport"
+    },
+    "FRJ": {
+        "country": "France",
+        "city": "Frejus"
+    },
+    "FAT": {
+        "country": "USA",
+        "city": "Fresno"
+    },
+    "FDH": {
+        "country": "Germany",
+        "city": "Friedrichshafen - Bodensee-Airport Friedrichshafen"
+    },
+    "FUE": {
+        "country": "Spain",
+        "city": "Fuerteventura"
+    },
+    "FUK": {
+        "country": "Japan",
+        "city": "Fukuoka"
+    },
+    "FKS": {
+        "country": "Japan",
+        "city": "Fukushima - Fukushima Airport"
+    },
+    "FNC": {
+        "country": "Portugal",
+        "city": "Funchal"
+    },
+    "FUT": {
+        "country": "Wallis and Futuna Islands",
+        "city": "Futuna"
+    },
+    "GBE": {
+        "country": "Botswana",
+        "city": "Gaborone - Sir Seretse Khama International Airport"
+    },
+    "GAD": {
+        "country": "USA",
+        "city": "Gadsden"
+    },
+    "GNV": {
+        "country": "USA",
+        "city": "Gainesville"
+    },
+    "GWY": {
+        "country": "Ireland",
+        "city": "Galway"
+    },
+    "YQX": {
+        "country": "Canada",
+        "city": "Gander"
+    },
+    "GOU": {
+        "country": "Cameroon",
+        "city": "Garoua"
+    },
+    "GZA": {
+        "country": "Palestinian Territory",
+        "city": "Gaza City - Gaza International Airport"
+    },
+    "GZT": {
+        "country": "Turkey",
+        "city": "Gaziantep"
+    },
+    "GDN": {
+        "country": "Poland",
+        "city": "Gdansk"
+    },
+    "GEX": {
+        "country": "Australia",
+        "city": "Geelong"
+    },
+    "GVA": {
+        "country": "Switzerland",
+        "city": "Geneva - Geneva-Cointrin International Airport"
+    },
+    "GOA": {
+        "country": "Italy",
+        "city": "Genoa"
+    },
+    "GRJ": {
+        "country": "South Africa",
+        "city": "George"
+    },
+    "GEO": {
+        "country": "Guyana",
+        "city": "Georgetown - Cheddi Jagan International Airport"
+    },
+    "GET": {
+        "country": "Australia",
+        "city": "Geraldton"
+    },
+    "GRO": {
+        "country": "Spain",
+        "city": "Gerona"
+    },
+    "GNE": {
+        "country": "Belgium",
+        "city": "Ghent"
+    },
+    "GIB": {
+        "country": "Gibraltar",
+        "city": "Gibraltar"
+    },
+    "GCC": {
+        "country": "USA",
+        "city": "Gilette"
+    },
+    "GIL": {
+        "country": "Pakistan",
+        "city": "Gilgit"
+    },
+    "YGX": {
+        "country": "Canada",
+        "city": "Gillam"
+    },
+    "GLT": {
+        "country": "Australia",
+        "city": "Gladstone"
+    },
+    "PIK": {
+        "country": "United Kingdom",
+        "city": "Glasgow, Prestwick"
+    },
+    "GLA": {
+        "country": "United Kingdom",
+        "city": "Glasgow"
+    },
+    "GGW": {
+        "country": "USA",
+        "city": "Glasgow"
+    },
+    "GDV": {
+        "country": "USA",
+        "city": "Glendive"
+    },
+    "GOI": {
+        "country": "India",
+        "city": "Goa"
+    },
+    "GYN": {
+        "country": "Brazil",
+        "city": "Goiania, Santa Genoveva Airport"
+    },
+    "OOL": {
+        "country": "Australia",
+        "city": "Gold Coast"
+    },
+    "GOO": {
+        "country": "Australia",
+        "city": "Goondiwindi"
+    },
+    "YYR": {
+        "country": "Canada",
+        "city": "Goose Bay"
+    },
+    "GOZ": {
+        "country": "Bulgaria",
+        "city": "Gorna"
+    },
+    "GOT": {
+        "country": "Sweden",
+        "city": "Gothenburg"
+    },
+    "GOV": {
+        "country": "Australia",
+        "city": "Gove"
+    },
+    "GHB": {
+        "country": "Bahamas",
+        "city": "Govenors Harbour"
+    },
+    "GRX": {
+        "country": "Spain",
+        "city": "Granada"
+    },
+    "GCN": {
+        "country": "USA",
+        "city": "Grand Canyon"
+    },
+    "GCM": {
+        "country": "Cayman Islands",
+        "city": "Grand Cayman - Owen Roberts International"
+    },
+    "GFK": {
+        "country": "USA",
+        "city": "Grand Forks"
+    },
+    "GJT": {
+        "country": "USA",
+        "city": "Grand Junction"
+    },
+    "GRR": {
+        "country": "USA",
+        "city": "Grand Rapids"
+    },
+    "GPZ": {
+        "country": "USA",
+        "city": "Grand Rapids"
+    },
+    "GRZ": {
+        "country": "Austria",
+        "city": "Graz"
+    },
+    "GTF": {
+        "country": "USA",
+        "city": "Great Falls"
+    },
+    "GKL": {
+        "country": "Australia",
+        "city": "Great Keppel Island"
+    },
+    "GRB": {
+        "country": "USA",
+        "city": "Green Bay"
+    },
+    "LWB": {
+        "country": "USA",
+        "city": "Greenbrier/Lewisburg"
+    },
+    "GSO": {
+        "country": "USA",
+        "city": "Greensboro/Winston Salem"
+    },
+    "GLH": {
+        "country": "USA",
+        "city": "Greenville"
+    },
+    "PGV": {
+        "country": "USA",
+        "city": "Greenville"
+    },
+    "GSP": {
+        "country": "USA",
+        "city": "Greenville/Spartanburg"
+    },
+    "GND": {
+        "country": "Grenada",
+        "city": "Grenada - Point Salines Airport also Maurice Bishop "
+    },
+    "GNB": {
+        "country": "France",
+        "city": "Grenoble"
+    },
+    "GFF": {
+        "country": "Australia",
+        "city": "Griffith"
+    },
+    "GRQ": {
+        "country": "Netherlands",
+        "city": "Groningen - Eelde"
+    },
+    "GTE": {
+        "country": "Australia",
+        "city": "Groote Eylandt - Alyangula"
+    },
+    "GON": {
+        "country": "USA",
+        "city": "Groton/New London"
+    },
+    "GDL": {
+        "country": "Mexico",
+        "city": "Guadalajara"
+    },
+    "GSI": {
+        "country": "Solomon Islands",
+        "city": "Guadalcanal"
+    },
+    "GUM": {
+        "country": "Guam",
+        "city": "Hag\u00e5t\u00f1a - Guam International Airport"
+    },
+    "CAN": {
+        "country": "Guangdong, PR China",
+        "city": "Guangzhou"
+    },
+    "GRU": {
+        "country": "Brazil",
+        "city": "Sao Paulo - Guarulhos"
+    },
+    "GUA": {
+        "country": "Guatemala",
+        "city": "Guatemala City - La Aurora International Airport"
+    },
+    "GYE": {
+        "country": "Ecuador",
+        "city": "Guayaquil - Simon Bolivar"
+    },
+    "GCI": {
+        "country": "Channel Islands",
+        "city": "Guernsey"
+    },
+    "GTI": {
+        "country": "Germany",
+        "city": "Guettin"
+    },
+    "GPT": {
+        "country": "USA",
+        "city": "Gulfport/Biloxi"
+    },
+    "KWL": {
+        "country": "Guangxi, PR China",
+        "city": "Guilin - Liangjiang"
+    },
+    "ULU": {
+        "country": "Uganda",
+        "city": "Gulu"
+    },
+    "GUC": {
+        "country": "USA",
+        "city": "Gunnison/Crested Butte"
+    },
+    "GAU": {
+        "country": "India",
+        "city": "Guwahati"
+    },
+    "GWD": {
+        "country": "Pakistan",
+        "city": "Gwadar"
+    },
+    "GWE": {
+        "country": "Zimbabwe",
+        "city": "Gweru"
+    },
+    "GYP": {
+        "country": "Australia",
+        "city": "Gympie"
+    },
+    "HAC": {
+        "country": "Japan",
+        "city": "Hachijo Jima"
+    },
+    "HFA": {
+        "country": "Israel",
+        "city": "Haifa"
+    },
+    "HNS": {
+        "country": "USA",
+        "city": "Haines"
+    },
+    "HKD": {
+        "country": "Japan",
+        "city": "Hakodate"
+    },
+    "YHZ": {
+        "country": "Canada",
+        "city": "Halifax International"
+    },
+    "YUX": {
+        "country": "Canada",
+        "city": "Hall Beach"
+    },
+    "HAM": {
+        "country": "Germany",
+        "city": "Hamburg - Fuhlsbuettel"
+    },
+    "HLT": {
+        "country": "Australia",
+        "city": "Hamilton"
+    },
+    "YHM": {
+        "country": "Canada",
+        "city": "Hamilton"
+    },
+    "HLZ": {
+        "country": "New Zealand",
+        "city": "Hamilton"
+    },
+    "HTI": {
+        "country": "Australia",
+        "city": "Hamilton Island"
+    },
+    "HFT": {
+        "country": "Norway",
+        "city": "Hammerfest"
+    },
+    "CMX": {
+        "country": "USA",
+        "city": "Hancock"
+    },
+    "HGH": {
+        "country": "Zhejiang, PR China",
+        "city": "Hangchow"
+    },
+    "HAJ": {
+        "country": "Germany",
+        "city": "Hannover"
+    },
+    "HAN": {
+        "country": "Vietnam",
+        "city": "Hanoi - Noi Bai International Airport"
+    },
+    "HRE": {
+        "country": "Zimbabwe",
+        "city": "Harare - Harare International Airport"
+    },
+    "HRB": {
+        "country": "Heilongjiang, PR China",
+        "city": "Harbin"
+    },
+    "HRL": {
+        "country": "USA",
+        "city": "Harlingen/South Padre Island"
+    },
+    "YHR": {
+        "country": "Canada",
+        "city": "Harrington Harbour, PQ"
+    },
+    "HAR": {
+        "country": "USA",
+        "city": "Harrisburg"
+    },
+    "MDT": {
+        "country": "USA",
+        "city": "Harrisburg"
+    },
+    "BDL": {
+        "country": "USA",
+        "city": "Hartford"
+    },
+    "HDY": {
+        "country": "Thailand",
+        "city": "Hatyai"
+    },
+    "HAU": {
+        "country": "Norway",
+        "city": "Haugesund"
+    },
+    "HAV": {
+        "country": "Cuba",
+        "city": "Havana - Jos\u00e9 Mart\u00ed International"
+    },
+    "HVR": {
+        "country": "USA",
+        "city": "Havre"
+    },
+    "HIS": {
+        "country": "Australia",
+        "city": "Hayman Island"
+    },
+    "HLN": {
+        "country": "USA",
+        "city": "Helena"
+    },
+    "JHE": {
+        "country": "Sweden",
+        "city": "Helsingborg"
+    },
+    "HEL": {
+        "country": "Finland",
+        "city": "Helsinki - Vantaa"
+    },
+    "HER": {
+        "country": "Greece",
+        "city": "Heraklion"
+    },
+    "HMO": {
+        "country": "Mexico",
+        "city": "Hermosillo - Gen Pesqueira Garcia"
+    },
+    "HVB": {
+        "country": "Australia",
+        "city": "Hervey Bay"
+    },
+    "HIB": {
+        "country": "USA",
+        "city": "Hibbing"
+    },
+    "HKY": {
+        "country": "USA",
+        "city": "Hickory"
+    },
+    "ITO": {
+        "country": "USA",
+        "city": "Hilo"
+    },
+    "HHH": {
+        "country": "USA",
+        "city": "Hilton Head Island"
+    },
+    "HNK": {
+        "country": "Australia",
+        "city": "Hinchinbrook Island"
+    },
+    "HIJ": {
+        "country": "Japan",
+        "city": "Hiroshima International"
+    },
+    "SGN": {
+        "country": "Viet Nam",
+        "city": "Saigon"
+    },
+    "HBA": {
+        "country": "Australia",
+        "city": "Hobart"
+    },
+    "HOQ": {
+        "country": "Germany",
+        "city": "Hof"
+    },
+    "HOG": {
+        "country": "Cuba",
+        "city": "Holguin"
+    },
+    "HMH": {
+        "country": "Australia",
+        "city": "Home Hill"
+    },
+    "HOM": {
+        "country": "USA",
+        "city": "Homer"
+    },
+    "HKG": {
+        "country": "Hong Kong",
+        "city": "Hong Kong - International Airport"
+    },
+    "ZJK": {
+        "country": "Hong Kong",
+        "city": "Hong Kong - Chek Lap Kok"
+    },
+    "HIR": {
+        "country": "Solomon Islands",
+        "city": "Honiara Henderson International"
+    },
+    "HNL": {
+        "country": "USA",
+        "city": "Honolulu"
+    },
+    "HNH": {
+        "country": "USA",
+        "city": "Hoonah"
+    },
+    "HOR": {
+        "country": "Portugal",
+        "city": "Horta"
+    },
+    "HOU": {
+        "country": "USA",
+        "city": "Houston"
+    },
+    "IAH": {
+        "country": "USA",
+        "city": "Houston, TX - George Bush Intercontinental Airport"
+    },
+    "HUH": {
+        "country": "French Polynesia",
+        "city": "Huahine"
+    },
+    "HUX": {
+        "country": "Mexico",
+        "city": "Huatulco"
+    },
+    "HUI": {
+        "country": "Viet Nam",
+        "city": "Hue - Phu Bai"
+    },
+    "HUY": {
+        "country": "United Kingdom",
+        "city": "Humberside"
+    },
+    "HTS": {
+        "country": "USA",
+        "city": "Huntington"
+    },
+    "HSV": {
+        "country": "USA",
+        "city": "Huntsville"
+    },
+    "HRG": {
+        "country": "Egypt",
+        "city": "Hurghada International"
+    },
+    "HON": {
+        "country": "USA",
+        "city": "Huron"
+    },
+    "HWN": {
+        "country": "Zimbabwe",
+        "city": "Hwange National Park"
+    },
+    "HYA": {
+        "country": "USA",
+        "city": "Hyannis"
+    },
+    "HYG": {
+        "country": "USA",
+        "city": "Hydaburg"
+    },
+    "HYD": {
+        "country": "India",
+        "city": "Hyderabad - Rajiv Gandhi International Airport"
+    },
+    "HDD": {
+        "country": "Pakistan",
+        "city": "Hyderabad"
+    },
+    "IBZ": {
+        "country": "Ibiza/Spain",
+        "city": "Ibiza"
+    },
+    "IDA": {
+        "country": "USA",
+        "city": "Idaho Falls"
+    },
+    "IGR": {
+        "country": "Argentina",
+        "city": "Iguazu, Cataratas"
+    },
+    "ILP": {
+        "country": "New Caledonia",
+        "city": "Ile des Pins"
+    },
+    "IOU": {
+        "country": "New Caledonia",
+        "city": "Ile Ouen"
+    },
+    "ILI": {
+        "country": "USA",
+        "city": "Iliamna"
+    },
+    "IPL": {
+        "country": "USA",
+        "city": "Imperial"
+    },
+    "IVC": {
+        "country": "New Zealand",
+        "city": "Invercargill"
+    },
+    "ICN": {
+        "country": "South Korea",
+        "city": "Seoul - Incheon International Airport"
+    },
+    "IND": {
+        "country": "USA",
+        "city": "Indianapolis"
+    },
+    "IGH": {
+        "country": "Australia",
+        "city": "Ingham"
+    },
+    "IFL": {
+        "country": "Australia",
+        "city": "Innisfail"
+    },
+    "INN": {
+        "country": "Austria",
+        "city": "Innsbruck - Kranebitten"
+    },
+    "INL": {
+        "country": "USA",
+        "city": "International Falls"
+    },
+    "YEV": {
+        "country": "Canada",
+        "city": "Inuvik"
+    },
+    "INV": {
+        "country": "United Kingdom",
+        "city": "Inverness"
+    },
+    "IYK": {
+        "country": "USA",
+        "city": "Inykern"
+    },
+    "YFB": {
+        "country": "Canada",
+        "city": "Iqaluit"
+    },
+    "IQT": {
+        "country": "Peru",
+        "city": "Iquitos"
+    },
+    "IKT": {
+        "country": "Russia",
+        "city": "Irkutsk"
+    },
+    "ISG": {
+        "country": "Japan",
+        "city": "Ishigaki - New Ishigaki Airport"
+    },
+    "ISB": {
+        "country": "Pakistan",
+        "city": "Islamabad - Benazir Bhutto International Airport"
+    },
+    "ILY": {
+        "country": "United Kingdom",
+        "city": "Islay"
+    },
+    "IOM": {
+        "country": "\u00a0",
+        "city": "Isle of Man"
+    },
+    "IST": {
+        "country": "Turkey",
+        "city": "Istanbul - Istanbul Atat\u00fcrk Airport"
+    },
+    "SAW": {
+        "country": "Turkey",
+        "city": "Istanbul - Sabiha Gokcen"
+    },
+    "ITH": {
+        "country": "USA",
+        "city": "Ithaca/Cortland"
+    },
+    "IVL": {
+        "country": "Finland",
+        "city": "Ivalo"
+    },
+    "ZIH": {
+        "country": "Mexico",
+        "city": "Ixtapa/Zihuatenejo"
+    },
+    "IZM": {
+        "country": "Turkey",
+        "city": "Izmir"
+    },
+    "ADB": {
+        "country": "Turkey",
+        "city": "Izmir - Adnan Menderes Airport"
+    },
+    "JAC": {
+        "country": "USA",
+        "city": "Jackson Hole"
+    },
+    "JXN": {
+        "country": "USA",
+        "city": "Jackson"
+    },
+    "MJQ": {
+        "country": "USA",
+        "city": "Jackson, \u00a0MN\u00a0\u00a0"
+    },
+    "JAN": {
+        "country": "USA",
+        "city": "Jackson"
+    },
+    "HKS": {
+        "country": "USA",
+        "city": "Jackson"
+    },
+    "MKL": {
+        "country": "USA",
+        "city": "Jackson"
+    },
+    "LRF": {
+        "country": "USA",
+        "city": "Jacksonville"
+    },
+    "NZC": {
+        "country": "USA",
+        "city": "Jacksonville"
+    },
+    "NIP": {
+        "country": "USA",
+        "city": "Jacksonville"
+    },
+    "JAX": {
+        "country": "USA",
+        "city": "Jacksonville"
+    },
+    "CRG": {
+        "country": "USA",
+        "city": "Jacksonville"
+    },
+    "IJX": {
+        "country": "USA",
+        "city": "Jacksonville"
+    },
+    "OAJ": {
+        "country": "USA",
+        "city": "Jacksonville"
+    },
+    "JKV": {
+        "country": "USA",
+        "city": "Jacksonville"
+    },
+    "JAK": {
+        "country": "Haiti",
+        "city": "Jacmel \u00a0\u00a0"
+    },
+    "JAG": {
+        "country": "Pakistan",
+        "city": "Jacobabad"
+    },
+    "JCM": {
+        "country": "Brazil",
+        "city": "Jacobina \u00a0\u00a0"
+    },
+    "JAQ": {
+        "country": "Papua New Guinea",
+        "city": "Jacquinot Bay"
+    },
+    "JAF": {
+        "country": "Sri Lanka",
+        "city": "Jaffna - Kankesanturai"
+    },
+    "JGB": {
+        "country": "India",
+        "city": "Jagdalpur"
+    },
+    "JAI": {
+        "country": "India",
+        "city": "Jaipur - Sanganeer"
+    },
+    "JSA": {
+        "country": "India",
+        "city": "Jaisalmer \u00a0\u00a0"
+    },
+    "HLP": {
+        "country": "Indonesia",
+        "city": "Jakarta - Halim Perdana Kusuma"
+    },
+    "JKT": {
+        "country": "Indonesia",
+        "city": "Jakarta - Metropolitan Area"
+    },
+    "CGK": {
+        "country": "Indonesia",
+        "city": "Jakarta - Soekarno-Hatta International"
+    },
+    "JAA": {
+        "country": "Afghanistan",
+        "city": "Jalalabad \u00a0 \u00a0"
+    },
+    "JLR": {
+        "country": "India",
+        "city": "Jalandhar"
+    },
+    "JAL": {
+        "country": "Mexico",
+        "city": "Jalapa"
+    },
+    "JLS": {
+        "country": "Brazil",
+        "city": "Jales"
+    },
+    "UIT": {
+        "country": "Marshall Islands",
+        "city": "Jaluit Island \u00a0"
+    },
+    "JMB": {
+        "country": "Angola",
+        "city": "Jamba"
+    },
+    "DJB": {
+        "country": "Indonesia\u00a0",
+        "city": "Jambi - Sultan Taha Syarifudn"
+    },
+    "JAM": {
+        "country": "Bulgaria",
+        "city": "Jambol"
+    },
+    "JMS": {
+        "country": "USA",
+        "city": "Jamestown"
+    },
+    "JHW": {
+        "country": "USA",
+        "city": "Jamestown"
+    },
+    "IXJ": {
+        "country": "India",
+        "city": "Jammu - Satwari"
+    },
+    "JGA": {
+        "country": "India",
+        "city": "Jamnagar - Govardhanpur"
+    },
+    "IXW": {
+        "country": "India",
+        "city": "Jamshedpur - Sonari Airport"
+    },
+    "JKR": {
+        "country": "Nepal",
+        "city": "Janakpur"
+    },
+    "JAD": {
+        "country": "Australia",
+        "city": "Jandakot"
+    },
+    "JVL": {
+        "country": "USA",
+        "city": "Janesville"
+    },
+    "JNA": {
+        "country": "Brazil",
+        "city": "Januaria"
+    },
+    "JQE": {
+        "country": "Panama",
+        "city": "Jaque \u00a0\u00a0"
+    },
+    "JTI": {
+        "country": "Brazil",
+        "city": "Jatai"
+    },
+    "JAU": {
+        "country": "Peru",
+        "city": "Jauja"
+    },
+    "DJJ": {
+        "country": "Indonesia",
+        "city": "Jayapura - Sentani"
+    },
+    "JED": {
+        "country": "Saudi Arabia",
+        "city": "Jeddah - King Abdulaziz International"
+    },
+    "JEF": {
+        "country": "USA",
+        "city": "Jefferson City"
+    },
+    "JEE": {
+        "country": "Haiti",
+        "city": "Jeremie - Jeremie Airport"
+    },
+    "XRY": {
+        "country": "Spain",
+        "city": "Jerez de la Frontera/Cadiz - La Parra"
+    },
+    "JER": {
+        "country": "Channel Islands",
+        "city": "Jersey"
+    },
+    "JRS": {
+        "country": "Israel",
+        "city": "Jerusalem - Atarot Airport"
+    },
+    "JSR": {
+        "country": "Bangladesh",
+        "city": "Jessore - Jessore Airport"
+    },
+    "PYB": {
+        "country": "India",
+        "city": "Jeypore - Jeypore Airport"
+    },
+    "JGS": {
+        "country": "Jiangxi, China",
+        "city": "Ji'an"
+    },
+    "JMU": {
+        "country": "China",
+        "city": "Jiamusi - Jiamusi Airport"
+    },
+    "JGN": {
+        "country": "China",
+        "city": "Jiayuguan - Jiayuguan Airport"
+    },
+    "GJL": {
+        "country": "Algeria",
+        "city": "Jijel"
+    },
+    "JIJ": {
+        "country": "Ethiopia",
+        "city": "Jijiga"
+    },
+    "JIL": {
+        "country": "China",
+        "city": "Jilin"
+    },
+    "JIM": {
+        "country": "Ethiopia",
+        "city": "Jimma"
+    },
+    "TNA": {
+        "country": "Shandong, PR China",
+        "city": "Jinan"
+    },
+    "JDZ": {
+        "country": "China",
+        "city": "Jingdezhen"
+    },
+    "JHG": {
+        "country": "China",
+        "city": "Jinghong - Gasa Airport"
+    },
+    "JNG": {
+        "country": "China",
+        "city": "Jining"
+    },
+    "JIN": {
+        "country": "Uganda",
+        "city": "Jinja"
+    },
+    "JJN": {
+        "country": "China",
+        "city": "Jinjiang"
+    },
+    "BCO": {
+        "country": "Ethiopia",
+        "city": "Jinka - Baco/Jinka Airport"
+    },
+    "JNZ": {
+        "country": "China",
+        "city": "Jinzhou - Jinzhou Airport"
+    },
+    "JIP": {
+        "country": "Ecuador",
+        "city": "Jipijapa"
+    },
+    "JIR": {
+        "country": "Nepal",
+        "city": "Jiri"
+    },
+    "JIU": {
+        "country": "China",
+        "city": "Jiujiang - Jiujiang Lushan Airport"
+    },
+    "JIW": {
+        "country": "Pakistan",
+        "city": "Jiwani"
+    },
+    "JCB": {
+        "country": "Brazil",
+        "city": "Joacaba"
+    },
+    "JPA": {
+        "country": "Brazil",
+        "city": "Joao Pessoa - Castro Pinto Airport"
+    },
+    "JDH": {
+        "country": "India",
+        "city": "Jodhpur"
+    },
+    "JKG": {
+        "country": "Sweden",
+        "city": "J\u00f6nk\u00f6ping"
+    },
+    "JOE": {
+        "country": "Finland",
+        "city": "Joensuu"
+    },
+    "JNB": {
+        "country": "South Africa",
+        "city": "Johannesburg - OR Tambo International Airport"
+    },
+    "BGM": {
+        "country": "USA",
+        "city": "Johnson City"
+    },
+    "JON": {
+        "country": "USA",
+        "city": "Johnston Island"
+    },
+    "JST": {
+        "country": "USA",
+        "city": "Johnstown"
+    },
+    "JHB": {
+        "country": "Malaysia",
+        "city": "Johor Bahru - Sultan Ismail International"
+    },
+    "JOI": {
+        "country": "Brazil",
+        "city": "Joinville - Cubatao Airport"
+    },
+    "JOL": {
+        "country": "Philippines",
+        "city": "Jolo"
+    },
+    "JMO": {
+        "country": "Nepal",
+        "city": "Jomsom"
+    },
+    "JBR": {
+        "country": "USA",
+        "city": "Jonesboro"
+    },
+    "JLN": {
+        "country": "USA",
+        "city": "Joplin"
+    },
+    "JRH": {
+        "country": "India",
+        "city": "Jorhat - Rowriah Airport"
+    },
+    "JOS": {
+        "country": "Nigeria",
+        "city": "Jos"
+    },
+    "JSM": {
+        "country": "Argentina",
+        "city": "Jose De San Martin"
+    },
+    "AJF": {
+        "country": "Saudi Arabia",
+        "city": "Jouf"
+    },
+    "JJI": {
+        "country": "Peru",
+        "city": "Juanjui"
+    },
+    "JUB": {
+        "country": "South Sudan",
+        "city": "Juba"
+    },
+    "JUI": {
+        "country": "Germany",
+        "city": "Juist"
+    },
+    "JDF": {
+        "country": "Brazil",
+        "city": "Juiz De Fora - Francisco De Assis Airport"
+    },
+    "JUJ": {
+        "country": "Argentina",
+        "city": "Jujuy - El Cadillal Airport"
+    },
+    "JCK": {
+        "country": "Australia",
+        "city": "Julia Creek"
+    },
+    "JUL": {
+        "country": "Peru",
+        "city": "Juliaca"
+    },
+    "JUM": {
+        "country": "Nepal",
+        "city": "Jumla"
+    },
+    "JUN": {
+        "country": "Australia",
+        "city": "Jundah"
+    },
+    "JNU": {
+        "country": "USA",
+        "city": "Juneau"
+    },
+    "JNI": {
+        "country": "Argentina",
+        "city": "Junin"
+    },
+    "JUT": {
+        "country": "Honduras",
+        "city": "Juticalpa"
+    },
+    "JWA": {
+        "country": "Botswana",
+        "city": "Jwaneng"
+    },
+    "JYV": {
+        "country": "Finland",
+        "city": "Jyv\u00e4skyl\u00e4"
+    },
+    "KBL": {
+        "country": "Afghanistan",
+        "city": "Kabul - Khwaja Rawash Airport"
+    },
+    "KOJ": {
+        "country": "Japan",
+        "city": "Kagoshima"
+    },
+    "KCM": {
+        "country": "Turkey",
+        "city": "Maras"
+    },
+    "OGG": {
+        "country": "USA",
+        "city": "Kahului"
+    },
+    "KAJ": {
+        "country": "Finland",
+        "city": "Kajaani"
+    },
+    "KLX": {
+        "country": "Greece",
+        "city": "Kalamata"
+    },
+    "AZO": {
+        "country": "USA",
+        "city": "Kalamazoo/Battle Creek"
+    },
+    "KGI": {
+        "country": "Australia",
+        "city": "Kalgoorlie"
+    },
+    "KGD": {
+        "country": "Russia",
+        "city": "Kaliningrad"
+    },
+    "FCA": {
+        "country": "USA",
+        "city": "Kalispell"
+    },
+    "KLR": {
+        "country": "Sweden",
+        "city": "Kalmar"
+    },
+    "YKA": {
+        "country": "Canada",
+        "city": "Kamloops, BC"
+    },
+    "MUE": {
+        "country": "USA",
+        "city": "Kamuela"
+    },
+    "KAN": {
+        "country": "Nigeria",
+        "city": "Kano"
+    },
+    "KNU": {
+        "country": "India",
+        "city": "Kanpur"
+    },
+    "MCI": {
+        "country": "USA",
+        "city": "Kansas City"
+    },
+    "KHH": {
+        "country": "Taiwan",
+        "city": "Kaohsiung International"
+    },
+    "JHM": {
+        "country": "USA",
+        "city": "Kapalua West"
+    },
+    "KHI": {
+        "country": "Pakistan",
+        "city": "Karachi - Jinnah International Airport"
+    },
+    "FKB": {
+        "country": "Germany",
+        "city": "Karlsruhe-Baden - Soellingen"
+    },
+    "KSD": {
+        "country": "Sweden",
+        "city": "Karlstad"
+    },
+    "AOK": {
+        "country": "Greece",
+        "city": "Karpathos"
+    },
+    "KTA": {
+        "country": "Australia",
+        "city": "Karratha"
+    },
+    "KYS": {
+        "country": "Turkey",
+        "city": "Kars"
+    },
+    "KRB": {
+        "country": "Australia",
+        "city": "Karumba"
+    },
+    "KRP": {
+        "country": "Denmark",
+        "city": "Karup"
+    },
+    "ZKE": {
+        "country": "Canada",
+        "city": "Kaschechawan, PQ"
+    },
+    " KSL": {
+        "country": "Sudan",
+        "city": "Kassala"
+    },
+    "KTR": {
+        "country": "Australia",
+        "city": "Katherine"
+    },
+    "KTM": {
+        "country": "Nepal",
+        "city": "Kathmandu - Tribhuvan International Airport"
+    },
+    "MPA": {
+        "country": "Namibia",
+        "city": "Katima Mulilo/Mpacha"
+    },
+    "KHJ": {
+        "country": "Finland",
+        "city": "Kauhajoki"
+    },
+    "MKK": {
+        "country": "USA",
+        "city": "Kaunakakai"
+    },
+    "KVA": {
+        "country": "Greece",
+        "city": "Kavalla"
+    },
+    "ASR": {
+        "country": "Turkey",
+        "city": "Kayseri"
+    },
+    "KZN": {
+        "country": "Russia",
+        "city": "Kazan - Kazan International Airport"
+    },
+    "KMP": {
+        "country": "Namibia",
+        "city": "Keetmanshoop"
+    },
+    "YLW": {
+        "country": "Canada",
+        "city": "Kelowna, BC"
+    },
+    "KEM": {
+        "country": "Finland",
+        "city": "Kemi/Tornio"
+    },
+    "ENA": {
+        "country": "USA",
+        "city": "Kenai"
+    },
+    "MSE": {
+        "country": "United Kingdom",
+        "city": "Kent"
+    },
+    "KIR": {
+        "country": "Ireland",
+        "city": "Kerry County"
+    },
+    "KTN": {
+        "country": "USA",
+        "city": "Ketchikan"
+    },
+    "EYW": {
+        "country": "USA",
+        "city": "Key West"
+    },
+    "AHB": {
+        "country": "Saudi Arabia",
+        "city": "Khamis Mushayat"
+    },
+    "UVL": {
+        "country": "Egypt",
+        "city": "New Valley - Kharga"
+    },
+    "HRK": {
+        "country": "Ukraine",
+        "city": "Kharkov"
+    },
+    "KRT": {
+        "country": "Sudan",
+        "city": "Khartoum - Khartoum International Airport"
+    },
+    "KDD": {
+        "country": "Pakistan",
+        "city": "Khuzdar"
+    },
+    "KEL": {
+        "country": "Germany",
+        "city": "Kiel - Holtenau"
+    },
+    "KBP": {
+        "country": "Ukraine",
+        "city": "Kiev - Borispol"
+    },
+    "IEV": {
+        "country": "Ukraine",
+        "city": "Kiev - Zhulhany"
+    },
+    "KGL": {
+        "country": "Rwanda",
+        "city": "Kigali - Gregoire Kayibanda"
+    },
+    "JRO": {
+        "country": "Tanzania",
+        "city": "Kilimadjaro"
+    },
+    "ILE": {
+        "country": "USA",
+        "city": "Killeem"
+    },
+    "KIM": {
+        "country": "South Africa",
+        "city": "Kimberley"
+    },
+    "KNS": {
+        "country": "King Island",
+        "city": "King Island"
+    },
+    "AKN": {
+        "country": "USA",
+        "city": "King Salomon"
+    },
+    "KGC": {
+        "country": "Australia",
+        "city": "Kingscote"
+    },
+    "KIN": {
+        "country": "Jamaica",
+        "city": "Kingston - Norman Manley"
+    },
+    "ISO": {
+        "country": "USA",
+        "city": "Kingston"
+    },
+    "SVD": {
+        "country": "Saint Vincent and the Grenadines",
+        "city": "St Vincent"
+    },
+    "FIH": {
+        "country": "Congo",
+        "city": "Kinshasa - N'Djili"
+    },
+    "CXI": {
+        "country": "Kiribati",
+        "city": "Kiritimati"
+    },
+    "KKN": {
+        "country": "Norway",
+        "city": "Kirkenes"
+    },
+    "KIK": {
+        "country": "Iraq",
+        "city": "Kirkuk"
+    },
+    "KOI": {
+        "country": "United Kingdom",
+        "city": "Orkney - Kirkwall"
+    },
+    "KRN": {
+        "country": "Sweden",
+        "city": "Kiruna"
+    },
+    "FKI": {
+        "country": "Congo",
+        "city": "Kisangani"
+    },
+    "KTT": {
+        "country": "Finland",
+        "city": "Kittil\u00e4"
+    },
+    "KIW": {
+        "country": "Zambia",
+        "city": "Kitwe"
+    },
+    "KLU": {
+        "country": "Austria",
+        "city": "Klagenfurt"
+    },
+    "LMT": {
+        "country": "USA",
+        "city": "Klamath Fall"
+    },
+    "KLW": {
+        "country": "USA",
+        "city": "Klawock"
+    },
+    "KLZ": {
+        "country": "South Africa",
+        "city": "Kleinsee"
+    },
+    "NOC": {
+        "country": "Ireland",
+        "city": "Knock"
+    },
+    "TYS": {
+        "country": "USA",
+        "city": "Knoxville"
+    },
+    "UKB": {
+        "country": "Japan",
+        "city": "Kobe"
+    },
+    "KCZ": {
+        "country": "Japan",
+        "city": "Kochi"
+    },
+    "ADQ": {
+        "country": "USA",
+        "city": "Kodiak"
+    },
+    "OHT": {
+        "country": "Pakistan",
+        "city": "Kohat"
+    },
+    "KOK": {
+        "country": "Finland",
+        "city": "Kokkola/Pietarsaari"
+    },
+    "KMQ": {
+        "country": "Japan",
+        "city": "Komatsu"
+    },
+    "KOA": {
+        "country": "USA",
+        "city": "Kona"
+    },
+    "KYA": {
+        "country": "Turkey",
+        "city": "Konya"
+    },
+    "HGO": {
+        "country": "Cote d'Ivoire",
+        "city": "Korhogo"
+    },
+    "KGS": {
+        "country": "Greece",
+        "city": "Kos"
+    },
+    "BKI": {
+        "country": "Malaysia",
+        "city": "Kota Kinabalu"
+    },
+    "OTZ": {
+        "country": "USA",
+        "city": "Kotzbue"
+    },
+    "KWM": {
+        "country": "Australia",
+        "city": "Kowanyama"
+    },
+    "KRK": {
+        "country": "Poland",
+        "city": "Krakow"
+    },
+    "KRS": {
+        "country": "Norway",
+        "city": "Kristiansand"
+    },
+    "KID": {
+        "country": "Sweden",
+        "city": "Kristianstad"
+    },
+    "KSU": {
+        "country": "Norway",
+        "city": "Kristiansund"
+    },
+    "KUL": {
+        "country": "Malaysia",
+        "city": "Kuala Lumpur - International Airport"
+    },
+    "SZB": {
+        "country": "Malaysia",
+        "city": "Kuala Lumpur - Sultan Abdul Aziz Shah"
+    },
+    "KUA": {
+        "country": "Malaysia",
+        "city": "Kuantan"
+    },
+    "KCH": {
+        "country": "Malaysia",
+        "city": "Kuching"
+    },
+    "KMJ": {
+        "country": "Japan",
+        "city": "Kumamoto"
+    },
+    "KNX": {
+        "country": "Australia",
+        "city": "Kununurra"
+    },
+    "KUO": {
+        "country": "Finland",
+        "city": "Kuopio"
+    },
+    "KUH": {
+        "country": "Japan",
+        "city": "Kushiro"
+    },
+    "YVP": {
+        "country": "Canada",
+        "city": "Kuujjuaq"
+    },
+    "YGW": {
+        "country": "Canada",
+        "city": "Kuujjuarapik"
+    },
+    "KAO": {
+        "country": "Finland",
+        "city": "Kuusamo"
+    },
+    "KWI": {
+        "country": "Kuwait",
+        "city": "Kuwait - Kuwait International"
+    },
+    "UKY": {
+        "country": "Japan",
+        "city": "Kyoto"
+    },
+    "LEK": {
+        "country": "Guinea",
+        "city": "Labe"
+    },
+    "WLB": {
+        "country": "USA",
+        "city": "Labouchere Bay"
+    },
+    "LBU": {
+        "country": "Malaysia",
+        "city": "Labuan"
+    },
+    "XLB": {
+        "country": "Canada",
+        "city": "Lac Brochet, MB"
+    },
+    "LCG": {
+        "country": "Spain",
+        "city": "La Coruna"
+    },
+    "LSE": {
+        "country": "USA",
+        "city": "La Crosse"
+    },
+    "LAE": {
+        "country": "Papua New Guinea",
+        "city": "Lae - Lae Nadzab Airport"
+    },
+    "LRH": {
+        "country": "France",
+        "city": "La Rochelle"
+    },
+    "LAF": {
+        "country": "USA",
+        "city": "Lafayette"
+    },
+    "LFT": {
+        "country": "USA",
+        "city": "Lafayette, La"
+    },
+    "LOS": {
+        "country": "Nigeria",
+        "city": "Lagos - Murtala Muhammed Airport"
+    },
+    "YGL": {
+        "country": "Canada",
+        "city": "La Grande"
+    },
+    "LHE": {
+        "country": "Pakistan",
+        "city": "Lahore"
+    },
+    "LCH": {
+        "country": "USA",
+        "city": "Lake Charles"
+    },
+    "HII": {
+        "country": "USA",
+        "city": "Lake Havasu City"
+    },
+    "TVL": {
+        "country": "USA",
+        "city": "Lake Tahoe"
+    },
+    "LKL": {
+        "country": "Norway",
+        "city": "Lakselv"
+    },
+    "LBQ": {
+        "country": "Gabon",
+        "city": "Lambarene"
+    },
+    "SUF": {
+        "country": "Italy",
+        "city": "Lamezia Terme"
+    },
+    "LMP": {
+        "country": "Italy",
+        "city": "Lampedusa"
+    },
+    "LNY": {
+        "country": "USA",
+        "city": "Lanai City"
+    },
+    "LNS": {
+        "country": "USA",
+        "city": "Lancaster"
+    },
+    "LEQ": {
+        "country": "United Kingdom",
+        "city": "Land's End"
+    },
+    "LGK": {
+        "country": "Malaysia",
+        "city": "Langkawi"
+    },
+    "LAI": {
+        "country": "France",
+        "city": "Lannion"
+    },
+    "HLA": {
+        "country": "South Africa",
+        "city": "Lanseria"
+    },
+    "LAN": {
+        "country": "USA",
+        "city": "Lansing"
+    },
+    "LPB": {
+        "country": "Bolivia",
+        "city": "La Paz - El Alto"
+    },
+    "LAP": {
+        "country": "Mexico",
+        "city": "La Paz - Leon"
+    },
+    "LPP": {
+        "country": "Finland",
+        "city": "Lappeenranta"
+    },
+    "LAR": {
+        "country": "USA",
+        "city": "Laramie"
+    },
+    "LRD": {
+        "country": "USA",
+        "city": "Laredo"
+    },
+    "LCA": {
+        "country": "Cyprus",
+        "city": "Larnaca"
+    },
+    "LPA": {
+        "country": "Spain",
+        "city": "Las Palmas"
+    },
+    "LAS": {
+        "country": "USA",
+        "city": "Las Vegas"
+    },
+    "LBE": {
+        "country": "USA",
+        "city": "Latrobe"
+    },
+    "LST": {
+        "country": "Australia",
+        "city": "Launceston"
+    },
+    "PIB": {
+        "country": "USA",
+        "city": "Laurel/Hattisburg"
+    },
+    "LVO": {
+        "country": "Australia",
+        "city": "Laverton"
+    },
+    "LAW": {
+        "country": "USA",
+        "city": "Lawton"
+    },
+    "LZC": {
+        "country": "Mexico",
+        "city": "Lazaro Cardenas"
+    },
+    "YLR": {
+        "country": "Canada",
+        "city": "Leaf Rapids"
+    },
+    "LEA": {
+        "country": "Australia",
+        "city": "Learmouth"
+    },
+    "LEB": {
+        "country": "USA",
+        "city": "Lebanon"
+    },
+    "LBA": {
+        "country": "United Kingdom",
+        "city": "Leeds/Bradford"
+    },
+    "LER": {
+        "country": "Australia",
+        "city": "Leinster"
+    },
+    "LEJ": {
+        "country": "Germany",
+        "city": "Leipzig"
+    },
+    "LEY": {
+        "country": "Netherlands",
+        "city": "Lelystad"
+    },
+    "BJX": {
+        "country": "Mexico",
+        "city": "Leon"
+    },
+    "LNO": {
+        "country": "Australia",
+        "city": "Leonora"
+    },
+    "LWK": {
+        "country": "United Kingdom",
+        "city": "Lerwick/Tingwall"
+    },
+    "LWS": {
+        "country": "USA",
+        "city": "Lewiston"
+    },
+    "LWT": {
+        "country": "USA",
+        "city": "Lewistown"
+    },
+    "LEX": {
+        "country": "USA",
+        "city": "Lexington"
+    },
+    "LBV": {
+        "country": "Gabon",
+        "city": "Libreville"
+    },
+    "LDK": {
+        "country": "Sweden",
+        "city": "Lidkoeping"
+    },
+    "LGG": {
+        "country": "Belgium",
+        "city": "Liege"
+    },
+    "LIF": {
+        "country": "Loyaute, Pazifik",
+        "city": "Lifou"
+    },
+    "LIH": {
+        "country": "USA",
+        "city": "Lihue"
+    },
+    "LIL": {
+        "country": "France",
+        "city": "Lille - Lille Airport"
+    },
+    "LLW": {
+        "country": "Malawi",
+        "city": "Lilongwe - Lilongwe International"
+    },
+    "LIM": {
+        "country": "Peru",
+        "city": "Lima - J Chavez International"
+    },
+    "QLI": {
+        "country": "Cyprus",
+        "city": "Limassol"
+    },
+    "LIG": {
+        "country": "France",
+        "city": "Limoges"
+    },
+    "LNK": {
+        "country": "USA",
+        "city": "Lincoln"
+    },
+    "LDC": {
+        "country": "Australia",
+        "city": "Lindeman Island"
+    },
+    "LNZ": {
+        "country": "Austria",
+        "city": "Linz - Hoersching"
+    },
+    "LIQ": {
+        "country": "Congo",
+        "city": "Lisala"
+    },
+    "LIS": {
+        "country": "Portugal",
+        "city": "Lisbon - Lisboa"
+    },
+    "LSY": {
+        "country": "Australia",
+        "city": "Lismore"
+    },
+    "LIT": {
+        "country": "USA",
+        "city": "Little Rock"
+    },
+    "LPL": {
+        "country": "United Kingdom",
+        "city": "Liverpool"
+    },
+    "LZR": {
+        "country": "Australia",
+        "city": "Lizard Island"
+    },
+    "LJU": {
+        "country": "Slovenia",
+        "city": "Ljubljana - Brnik"
+    },
+    "IRG": {
+        "country": "Australia",
+        "city": "Lockhart River"
+    },
+    "LFW": {
+        "country": "Togo",
+        "city": "Lome"
+    },
+    "YXU": {
+        "country": "Canada",
+        "city": "London"
+    },
+    "LON": {
+        "country": "United Kingdom",
+        "city": "London Metropolitan Area"
+    },
+    "LCY": {
+        "country": "United Kingdom",
+        "city": "London - City Airport"
+    },
+    "LGW": {
+        "country": "United Kingdom",
+        "city": "London - Gatwick"
+    },
+    "LHR": {
+        "country": "United Kingdom",
+        "city": "London - Heathrow"
+    },
+    "LTN": {
+        "country": "United Kingdom",
+        "city": "London - Luton"
+    },
+    "STN": {
+        "country": "United Kingdom",
+        "city": "Stansted"
+    },
+    "LGB": {
+        "country": "USA",
+        "city": "Long Beach"
+    },
+    "LIJ": {
+        "country": "USA",
+        "city": "Long Island"
+    },
+    "ISP": {
+        "country": "USA",
+        "city": "Long Island, Islip"
+    },
+    "LRE": {
+        "country": "Australia",
+        "city": "Longreach"
+    },
+    "GGG": {
+        "country": "USA",
+        "city": "Longview/Kilgore"
+    },
+    "LYR": {
+        "country": "Svalbard/Norway",
+        "city": "Longyearbyen - Svalbard"
+    },
+    "LTO": {
+        "country": "Mexico",
+        "city": "Loreto"
+    },
+    "LRT": {
+        "country": "France",
+        "city": "Lorient"
+    },
+    "LAX": {
+        "country": "USA",
+        "city": "Los Angeles"
+    },
+    "SJD": {
+        "country": "Mexico",
+        "city": "San Jose Cabo"
+    },
+    "LMM": {
+        "country": "Mexico",
+        "city": "Los Mochis"
+    },
+    "TFN": {
+        "country": "Spain",
+        "city": "Tenerife - Norte Los Rodeos"
+    },
+    "LSZ": {
+        "country": "Croatia",
+        "city": "Losinj - Losinj Arpt"
+    },
+    "LDE": {
+        "country": "France",
+        "city": "Lourdes/Tarbes"
+    },
+    "SDF": {
+        "country": "USA",
+        "city": "Louisville"
+    },
+    "LAD": {
+        "country": "Angola",
+        "city": "Luanda - 4 de Fevereiro"
+    },
+    "LBB": {
+        "country": "USA",
+        "city": "Lubbock"
+    },
+    "LKO": {
+        "country": "India",
+        "city": "Lucknow"
+    },
+    "LUD": {
+        "country": "Namibia",
+        "city": "Luederitz"
+    },
+    "MLA": {
+        "country": "Malta",
+        "city": "Luga"
+    },
+    "LUG": {
+        "country": "Switzerland",
+        "city": "Lugano"
+    },
+    "LLA": {
+        "country": "Sweden",
+        "city": "Lulea"
+    },
+    "FBM": {
+        "country": "Congo",
+        "city": "Lumbumbashi"
+    },
+    "LUN": {
+        "country": "Zambia",
+        "city": "Lusaka - Lusaka International Airport"
+    },
+    "LUJ": {
+        "country": "South Africa",
+        "city": "Lusisiki"
+    },
+    "LUX": {
+        "country": "Luxembourg",
+        "city": "Luxembourg"
+    },
+    "LUM": {
+        "country": "Yunnan, PR China",
+        "city": "Luxi - Mangshi"
+    },
+    "LXR": {
+        "country": "Egypt",
+        "city": "Luxor"
+    },
+    "LWO": {
+        "country": "Ukraine",
+        "city": "Lvov"
+    },
+    "LYX": {
+        "country": "United Kingdom",
+        "city": "Lydd - Lydd International Airport"
+    },
+    "LYH": {
+        "country": "USA",
+        "city": "Lynchburg"
+    },
+    "LYS": {
+        "country": "France",
+        "city": "Lyon - Lyon-Saint Exup\u00e9ry Airport "
+    },
+    "LYO": {
+        "country": "USA",
+        "city": "Lyons"
+    },
+    "MST ": {
+        "country": "Netherlands",
+        "city": "Maastricht/Aachen"
+    },
+    "MCP": {
+        "country": "Brazil",
+        "city": "Macapa - Alberto Alcolumbre International Airport"
+    },
+    "MFM": {
+        "country": "Macau, China SAR",
+        "city": "Macau - Macau International Airport"
+    },
+    "MCZ": {
+        "country": "Brazil",
+        "city": "Maceio - Zumbi dos Palmares International Airport"
+    },
+    "MKY": {
+        "country": "Australia",
+        "city": "Mackay"
+    },
+    "MCN": {
+        "country": "USA",
+        "city": "Macon"
+    },
+    "NOP": {
+        "country": "Philippines",
+        "city": "Mactan Island - Nab"
+    },
+    "MED": {
+        "country": "Saudi Arabia",
+        "city": "Medina"
+    },
+    "MSN": {
+        "country": "USA",
+        "city": "Madison"
+    },
+    "MAD": {
+        "country": "Spain",
+        "city": "Madrid - Barajas Airport"
+    },
+    "SEZ": {
+        "country": "Seychelles",
+        "city": "Mahe - Seychelles International"
+    },
+    "MAH": {
+        "country": "Spain",
+        "city": "Mahon"
+    },
+    "MTL": {
+        "country": "Australia",
+        "city": "Maitland"
+    },
+    "MJN": {
+        "country": "Madagascar",
+        "city": "Majunga"
+    },
+    "MZG": {
+        "country": "Taiwan",
+        "city": "Makung"
+    },
+    "SSG": {
+        "country": "Equatorial Guinea",
+        "city": "Malabo - Malabo International Airport"
+    },
+    "AGP": {
+        "country": "Spain",
+        "city": "Malaga"
+    },
+    "MLX": {
+        "country": "Turkey",
+        "city": "Malatya"
+    },
+    "MLE": {
+        "country": "Maledives",
+        "city": "Male - Velana International Airport"
+    },
+    "MYD": {
+        "country": "Kenya",
+        "city": "Malindi"
+    },
+    "MMA": {
+        "country": "Sweden",
+        "city": "Malmo"
+    },
+    "MMX": {
+        "country": "Sweden",
+        "city": "Malmo"
+    },
+    "MJC": {
+        "country": "Cote d'Ivoire",
+        "city": "Man"
+    },
+    "MGA": {
+        "country": "Nicaragua",
+        "city": "Managua - Augusto C Sandino"
+    },
+    "MAO": {
+        "country": "Brazil",
+        "city": "Manaus - Eduardo Gomes International Airport"
+    },
+    "MAN": {
+        "country": "United Kingdom",
+        "city": "Manchester"
+    },
+    "MHT": {
+        "country": "USA",
+        "city": "Manchester"
+    },
+    "MDL": {
+        "country": "Myanmar",
+        "city": "Mandalay - Mandalay-Annisaton Airport"
+    },
+    "MFO": {
+        "country": "Papua New Guinea",
+        "city": "Manguna"
+    },
+    "XMH": {
+        "country": "French Polynesia",
+        "city": "Manihi"
+    },
+    "MNL": {
+        "country": "Philippines",
+        "city": "Manila - Ninoy Aquino International"
+    },
+    "ZLO": {
+        "country": "Mexico",
+        "city": "Manzanillo"
+    },
+    "MTS": {
+        "country": "Swaziland",
+        "city": "Manzini - Matsapha International"
+    },
+    "MPM": {
+        "country": "Mozambique",
+        "city": "Maputo - Maputo International"
+    },
+    "MDQ": {
+        "country": "Argentina",
+        "city": "Mar del Plata"
+    },
+    "MAR": {
+        "country": "Venezuela",
+        "city": "Maracaibo - La Chinita International"
+    },
+    "MFQ": {
+        "country": "Niger",
+        "city": "Maradi"
+    },
+    "MTH": {
+        "country": "USA",
+        "city": "Marathon"
+    },
+    "MQM": {
+        "country": "Turkey",
+        "city": "Mardin"
+    },
+    "MEE": {
+        "country": "New Caledonia",
+        "city": "Mare"
+    },
+    "MGH": {
+        "country": "South Africa",
+        "city": "Margate"
+    },
+    "PMV": {
+        "country": "Venezuela",
+        "city": "Margerita"
+    },
+    "MBX": {
+        "country": "Slovenia",
+        "city": "Maribor"
+    },
+    "MHQ": {
+        "country": "Finland",
+        "city": "Mariehamn"
+    },
+    "MVR": {
+        "country": "Cameroon",
+        "city": "Maroua"
+    },
+    "MQT": {
+        "country": "USA",
+        "city": "Marquette"
+    },
+    "RAK": {
+        "country": "Morocco",
+        "city": "Marrakesh - Menara Airport"
+    },
+    "RMF": {
+        "country": "Egypt",
+        "city": "Marsa Alam"
+    },
+    "MUH": {
+        "country": "Egypt",
+        "city": "Marsa Matrah"
+    },
+    "MRS": {
+        "country": "France",
+        "city": "Marseille - Marseille Provence Airport"
+    },
+    "MHH": {
+        "country": "Bahamas",
+        "city": "Marsh Harbour"
+    },
+    "MVY": {
+        "country": "USA",
+        "city": "Martha's Vineyard"
+    },
+    "MRB": {
+        "country": "USA",
+        "city": "Martinsburg"
+    },
+    "MBH": {
+        "country": "Australia",
+        "city": "Maryborough"
+    },
+    "MSU": {
+        "country": "Lesotho",
+        "city": "Maseru - Moshoeshoe International"
+    },
+    "MCW": {
+        "country": "USA",
+        "city": "Mason City IA"
+    },
+    "MVZ": {
+        "country": "Zimbabwe",
+        "city": "Masvingo"
+    },
+    "MMJ": {
+        "country": "Japan",
+        "city": "Matsumoto, Nagano"
+    },
+    "MYJ": {
+        "country": "Japan",
+        "city": "Matsuyama"
+    },
+    "MTO": {
+        "country": "USA",
+        "city": "Mattoon"
+    },
+    "MUB": {
+        "country": "Botswana",
+        "city": "Maun"
+    },
+    "MAU": {
+        "country": "French Polynesia",
+        "city": "Maupiti"
+    },
+    "MRU": {
+        "country": "Mauritius",
+        "city": "Mauritius - SSeewoosagur Ram International"
+    },
+    "MAZ": {
+        "country": "Puerto Rico",
+        "city": "Mayaguez"
+    },
+    "MZT": {
+        "country": "Mexico",
+        "city": "Mazatlan"
+    },
+    "MFE": {
+        "country": "USA",
+        "city": "McAllen"
+    },
+    "MES": {
+        "country": "Indonesia",
+        "city": "Medan - Polania Int'l"
+    },
+    "KNO": {
+        "country": "Indonesia",
+        "city": "Medan - Kualanamu International"
+    },
+    "MDE": {
+        "country": "Colombia",
+        "city": "Medellin - Jos\u00e9 Mar\u00eda C\u00f3rdova International"
+    },
+    "MFR": {
+        "country": "USA",
+        "city": "Medford"
+    },
+    "MKR": {
+        "country": "Australia",
+        "city": "Meekatharra"
+    },
+    "MEL": {
+        "country": "Australia",
+        "city": "Melbourne - Melbourne Airport"
+    },
+    "MLB": {
+        "country": "USA",
+        "city": "Melbourne"
+    },
+    "DOM": {
+        "country": "Dominica",
+        "city": "Melville Hall"
+    },
+    "MEM": {
+        "country": "USA",
+        "city": "Memphis"
+    },
+    "MDZ": {
+        "country": "Argentina",
+        "city": "Mendoza"
+    },
+    "MDC": {
+        "country": "Indonesia",
+        "city": "Manado"
+    },
+    "MCE": {
+        "country": "USA",
+        "city": "Merced"
+    },
+    "MID": {
+        "country": "Mexico",
+        "city": "Merida"
+    },
+    "MEI": {
+        "country": "USA",
+        "city": "Meridian"
+    },
+    "MIM": {
+        "country": "Australia",
+        "city": "Merimbula"
+    },
+    "MEZ": {
+        "country": "South Africa",
+        "city": "Messina"
+    },
+    "MTM": {
+        "country": "USA",
+        "city": "Metlakatla"
+    },
+    "MZM": {
+        "country": "France",
+        "city": "Metz - \u00a0Frescaty"
+    },
+    "ETZ": {
+        "country": "France",
+        "city": "Metz/Nancy Metz-Nancy-Lorraine"
+    },
+    "MXL": {
+        "country": "Mexico",
+        "city": "Mexicali"
+    },
+    "MEX": {
+        "country": "Mexico",
+        "city": "Mexico City - Juarez International"
+    },
+    "AZP": {
+        "country": "Mexico",
+        "city": "Mexico City - Atizapan"
+    },
+    "NLU": {
+        "country": "Mexico",
+        "city": "Mexico City - Santa Lucia"
+    },
+    "MFU": {
+        "country": "Zambia",
+        "city": "Mfuwe"
+    },
+    "MIA": {
+        "country": "USA",
+        "city": "Miami"
+    },
+    "MWD": {
+        "country": "Pakistan",
+        "city": "Mianwali"
+    },
+    "MMM": {
+        "country": "Australia",
+        "city": "Middlemount"
+    },
+    "MAF": {
+        "country": "USA",
+        "city": "Midland/Odessa"
+    },
+    "MDY": {
+        "country": "US Minor Outlying Islands",
+        "city": "Midway Island - Sand Island Field"
+    },
+    "MIK": {
+        "country": "Finland",
+        "city": "Mikkeli"
+    },
+    "MIL": {
+        "country": "Italy",
+        "city": "Milan"
+    },
+    "LIN": {
+        "country": "Italy",
+        "city": "Milan - Linate"
+    },
+    "MXP": {
+        "country": "Italy",
+        "city": "Milan - Malpensa"
+    },
+    "MQL": {
+        "country": "Australia",
+        "city": "Mildura"
+    },
+    "MLS": {
+        "country": "USA",
+        "city": "Miles City"
+    },
+    "MFN": {
+        "country": "New Zealand",
+        "city": "Milford Sound"
+    },
+    "MKE": {
+        "country": "USA",
+        "city": "Milwaukee"
+    },
+    "MTT": {
+        "country": "Mexico",
+        "city": "Minatitlan"
+    },
+    "MRV": {
+        "country": "Russia",
+        "city": "Mineralnye Vody"
+    },
+    "MSP": {
+        "country": "USA",
+        "city": "Minneapolis - St Paul International Airport"
+    },
+    "MOT": {
+        "country": "USA",
+        "city": "Minot"
+    },
+    "MSQ": {
+        "country": "Belarus",
+        "city": "Minsk, International"
+    },
+    "MYY": {
+        "country": "Malaysia",
+        "city": "Miri"
+    },
+    "QML": {
+        "country": "Pakistan",
+        "city": "Mirpur"
+    },
+    "MSO": {
+        "country": "USA",
+        "city": "Missula"
+    },
+    "MHE": {
+        "country": "USA",
+        "city": "Mitchell"
+    },
+    "MMY": {
+        "country": "Japan",
+        "city": "Miyako Jima"
+    },
+    "KMI": {
+        "country": "Japan",
+        "city": "Miyazaki"
+    },
+    "MBM": {
+        "country": "South Africa",
+        "city": "Mkambati"
+    },
+    "MFF": {
+        "country": "Gabon",
+        "city": "Moanda"
+    },
+    "MOB": {
+        "country": "USA",
+        "city": "Mobile"
+    },
+    "MOD": {
+        "country": "USA",
+        "city": "Modesto"
+    },
+    "MJD": {
+        "country": "Pakistan",
+        "city": "Moenjodaro"
+    },
+    "MGQ": {
+        "country": "Somalia",
+        "city": "Mogadishu"
+    },
+    "OKU": {
+        "country": "Namibia",
+        "city": "Mokuti"
+    },
+    "MLI": {
+        "country": "USA",
+        "city": "Moline/Quad Cities"
+    },
+    "MBA": {
+        "country": "Kenya",
+        "city": "Mombasa - Moi International"
+    },
+    "MIR": {
+        "country": "Tunisia",
+        "city": "Monastir"
+    },
+    "YQM": {
+        "country": "Canada",
+        "city": "Moncton"
+    },
+    "MLU": {
+        "country": "USA",
+        "city": "Monroe"
+    },
+    "MLW": {
+        "country": "Liberia",
+        "city": "Monrovia - Metropolitan Area"
+    },
+    "ROB": {
+        "country": "Liberia",
+        "city": "Monrovia - Roberts International"
+    },
+    "MBJ": {
+        "country": "Jamaica",
+        "city": "Montego Bay - Sangster International"
+    },
+    "QGF": {
+        "country": "Brazil",
+        "city": "Montenegro"
+    },
+    "MRY": {
+        "country": "USA",
+        "city": "Monterey"
+    },
+    "MTY": {
+        "country": "Mexico",
+        "city": "Monterrey - Gen Mariano Escobedo"
+    },
+    "NTR": {
+        "country": "Mexico",
+        "city": "Monterrey - Aeropuerto Del Norte"
+    },
+    "MVD": {
+        "country": "Uruguay",
+        "city": "Montevideo - Carrasco International Airport"
+    },
+    "MGM": {
+        "country": "USA",
+        "city": "Montgomery"
+    },
+    "MPL": {
+        "country": "France",
+        "city": "Montpellier - Montpellier\u2013M\u00e9diterran\u00e9e Airport"
+    },
+    "YMQ": {
+        "country": "Canada",
+        "city": "Montreal"
+    },
+    "YUL": {
+        "country": "Canada",
+        "city": "Montreal - Dorval"
+    },
+    "YMX": {
+        "country": "Canada",
+        "city": "Montreal - Mirabel"
+    },
+    "MTJ": {
+        "country": "USA",
+        "city": "Montrose/Tellruide"
+    },
+    "MOZ": {
+        "country": "French Polynesia",
+        "city": "Moorea"
+    },
+    "MOV": {
+        "country": "Australia",
+        "city": "Moranbah"
+    },
+    "MRZ": {
+        "country": "Australia",
+        "city": "Moree"
+    },
+    "MLM": {
+        "country": "Mexico",
+        "city": "Morelia"
+    },
+    "MGW": {
+        "country": "USA",
+        "city": "Morgantown"
+    },
+    "HNA": {
+        "country": "Japan",
+        "city": "Morioka, Hanamaki"
+    },
+    "HAH": {
+        "country": "Comoros",
+        "city": "Moroni - Prince Said Ibrahim"
+    },
+    "MYA": {
+        "country": "Australia",
+        "city": "Moruya"
+    },
+    "MOW": {
+        "country": "Russia",
+        "city": "Moscow - Metropolitan Area"
+    },
+    "DME": {
+        "country": "Russia",
+        "city": "Moscow - Domodedovo"
+    },
+    "SVO": {
+        "country": "Russia",
+        "city": "Moscow - Sheremetyevo"
+    },
+    "VKO": {
+        "country": "Russia",
+        "city": "Moscow - Vnukovo"
+    },
+    "MWH": {
+        "country": "USA",
+        "city": "Moses Lake"
+    },
+    "MZY": {
+        "country": "South Africa",
+        "city": "Mossel Bay"
+    },
+    "OMO": {
+        "country": "Bosnia and Herzegovina",
+        "city": "Mostar"
+    },
+    "OSM": {
+        "country": "Iraq",
+        "city": "Mosul"
+    },
+    "MJL": {
+        "country": "Gabon",
+        "city": "Mouila"
+    },
+    "MQQ": {
+        "country": "Chad",
+        "city": "Moundou"
+    },
+    "GTN": {
+        "country": "New Zealand",
+        "city": "Mount Cook"
+    },
+    "MGB": {
+        "country": "Australia",
+        "city": "Mount Gambier"
+    },
+    "MMG": {
+        "country": "Australia",
+        "city": "Mount Magnet"
+    },
+    "ISA": {
+        "country": "Australia",
+        "city": "Mt Isa"
+    },
+    "MCL": {
+        "country": "USA",
+        "city": "Mt McKinley"
+    },
+    "MUC": {
+        "country": "Germany",
+        "city": "Muenchen"
+    },
+    "FMO": {
+        "country": "Germany",
+        "city": "Muenster/Osnabrueck"
+    },
+    "MLH": {
+        "country": "France",
+        "city": "Mulhouse"
+    },
+    "MUX": {
+        "country": "Pakistan",
+        "city": "Multan"
+    },
+    "MJV": {
+        "country": "Spain",
+        "city": "Murcia"
+    },
+    "MMK": {
+        "country": "Russia",
+        "city": "Murmansk"
+    },
+    "MSR": {
+        "country": "Turkey",
+        "city": "Mus"
+    },
+    "MCT": {
+        "country": "Oman",
+        "city": "Muscat - Seeb"
+    },
+    "MSL": {
+        "country": "USA",
+        "city": "Muscle Shoals"
+    },
+    "MKG": {
+        "country": "USA",
+        "city": "Muskegon"
+    },
+    "MFG": {
+        "country": "Pakistan",
+        "city": "Muzaffarabad"
+    },
+    "MVB": {
+        "country": "Gabon",
+        "city": "Mvengue"
+    },
+    "JMK": {
+        "country": "Greece",
+        "city": "Mykonos"
+    },
+    "MYR": {
+        "country": "USA",
+        "city": "Myrtle Beach"
+    },
+    "CRE": {
+        "country": "USA",
+        "city": " Myrtle Beach"
+    },
+    "MYQ": {
+        "country": "India",
+        "city": "Mysore"
+    },
+    "MJT": {
+        "country": "Greece",
+        "city": "Mytilene"
+    },
+    "MZF": {
+        "country": "South Africa",
+        "city": "Mzamba"
+    },
+    "NAN ": {
+        "country": "Fiji",
+        "city": "Nadi"
+    },
+    "NGS": {
+        "country": "Japan",
+        "city": "Nagasaki"
+    },
+    "NGO": {
+        "country": "Japan",
+        "city": "Nagoya - Komaki AFB"
+    },
+    "NAG": {
+        "country": "India",
+        "city": "Nagpur"
+    },
+    "NBO": {
+        "country": "Kenya",
+        "city": "Nairobi"
+    },
+    "NAJ": {
+        "country": "Azerbaijan",
+        "city": "Nakhichevan"
+    },
+    "NST": {
+        "country": "Thailand",
+        "city": "Nakhon Si Thammarat"
+    },
+    "ENC": {
+        "country": "France",
+        "city": "Nancy"
+    },
+    "YSR": {
+        "country": "Canada",
+        "city": "Nanisivik"
+    },
+    "NNG": {
+        "country": "Guangxi, PR China",
+        "city": "Nanning"
+    },
+    "NTE": {
+        "country": "France",
+        "city": "Nantes - Nantes Atlantique Airport"
+    },
+    "ACK": {
+        "country": "USA",
+        "city": "Nantucket"
+    },
+    "NAP": {
+        "country": "Italy",
+        "city": "Naples - Naples Capodichino Airport"
+    },
+    "APF": {
+        "country": "USA",
+        "city": "Naples"
+    },
+    "NAA": {
+        "country": "Australia",
+        "city": "Narrabri"
+    },
+    "NRA": {
+        "country": "Australia",
+        "city": "Narrandera"
+    },
+    "UAK": {
+        "country": "Greenland",
+        "city": "Narsarsuaq"
+    },
+    "BNA": {
+        "country": "USA",
+        "city": "Nashville"
+    },
+    "NAT": {
+        "country": "Brazil",
+        "city": "Natal - Augusto Severo International Airport"
+    },
+    "SUV": {
+        "country": "Fiji",
+        "city": "Suva - Nausori Airport"
+    },
+    "WNS": {
+        "country": "Pakistan",
+        "city": "Nawab Shah"
+    },
+    "JNX": {
+        "country": "Greece",
+        "city": "Naxos - Naxos Airport"
+    },
+    "NDJ": {
+        "country": "Chad",
+        "city": "N'Djamena"
+    },
+    "NLA": {
+        "country": "Zambia",
+        "city": "N'Dola"
+    },
+    "NSN": {
+        "country": "New Zealand",
+        "city": "Nelson"
+    },
+    "NLP": {
+        "country": "South Africa",
+        "city": "Nelspruit"
+    },
+    "MQP": {
+        "country": "South Africa",
+        "city": "Nelspruit - Kruger Mpumalanga International Airport"
+    },
+    "NEV": {
+        "country": "St Kitts and Nevis",
+        "city": "Nevis"
+    },
+    "EWN": {
+        "country": "USA",
+        "city": "New Bern"
+    },
+    "HVN": {
+        "country": "USA",
+        "city": "New Haven"
+    },
+    "MSY": {
+        "country": "USA",
+        "city": "New Orleans, La"
+    },
+    "NQY": {
+        "country": "United Kingdom",
+        "city": "Newquay"
+    },
+    "JFK": {
+        "country": "USA",
+        "city": "New York - John F Kennedy"
+    },
+    "LGA": {
+        "country": "USA",
+        "city": "New York - LaGuardia"
+    },
+    "EWR": {
+        "country": "USA",
+        "city": "New York - Newark"
+    },
+    "NYC": {
+        "country": "USA",
+        "city": "New York"
+    },
+    "SWF": {
+        "country": "USA",
+        "city": "Newburgh"
+    },
+    "BEO": {
+        "country": "Australia",
+        "city": "Newcastle - Belmont"
+    },
+    "NTL": {
+        "country": "Australia",
+        "city": "Newcastle - Williamtown"
+    },
+    "NCL": {
+        "country": "United Kingdom",
+        "city": "Newcastle"
+    },
+    "NCS": {
+        "country": "South Africa",
+        "city": "Newcastle"
+    },
+    "ZNE": {
+        "country": "Australia",
+        "city": "Newman"
+    },
+    "PHF": {
+        "country": "USA",
+        "city": "Newport News/Williamsburg"
+    },
+    "NGE": {
+        "country": "Cameroon",
+        "city": "N'Gaoundere"
+    },
+    "IAG": {
+        "country": "USA",
+        "city": "Niagara Falls International"
+    },
+    "NIM": {
+        "country": "Niger",
+        "city": "Niamey"
+    },
+    "NCE": {
+        "country": "France",
+        "city": "Nice - Cote D'Azur Airport"
+    },
+    "NIC": {
+        "country": "Cyprus",
+        "city": "Nicosia"
+    },
+    "NLV": {
+        "country": "Ukraine",
+        "city": "Nikolaev"
+    },
+    "KIJ": {
+        "country": "Japan",
+        "city": "Niigata"
+    },
+    "FNI": {
+        "country": "France",
+        "city": "Nimes"
+    },
+    "INI": {
+        "country": "Serbia",
+        "city": "Nis"
+    },
+    "GOJ": {
+        "country": "Russia",
+        "city": "Nizhny Novgorod - Strigino International Airport"
+    },
+    "OME": {
+        "country": "USA",
+        "city": "Nome"
+    },
+    "NSA": {
+        "country": "Australia",
+        "city": "Noosa"
+    },
+    "NLK": {
+        "country": "Australia",
+        "city": "Norfolk Island"
+    },
+    "ORF": {
+        "country": "USA",
+        "city": "Norfolk/Virginia Beach"
+    },
+    "YVQ": {
+        "country": "Canada",
+        "city": "Norman Wells"
+    },
+    "NRK": {
+        "country": "Sweden",
+        "city": "Norrkoeping"
+    },
+    "OTH": {
+        "country": "USA",
+        "city": "North Bend"
+    },
+    "ELH": {
+        "country": "Bahamas",
+        "city": "North Eleuthera"
+    },
+    "NWI": {
+        "country": "United Kingdom",
+        "city": "Norwich"
+    },
+    "EMA": {
+        "country": "United Kingdom",
+        "city": "Nottingham - East Midlands"
+    },
+    "NDB": {
+        "country": "Mauritania",
+        "city": "Nouadhibou"
+    },
+    "NKC": {
+        "country": "Mauritania",
+        "city": "Nouakchott"
+    },
+    "NOU": {
+        "country": "New Caledonia",
+        "city": "Noumea"
+    },
+    "QND": {
+        "country": "Serbia",
+        "city": "Novi Sad"
+    },
+    "OVB": {
+        "country": "Russia",
+        "city": "Novosibirsk - Tolmachevo Airport"
+    },
+    "NUE": {
+        "country": "Germany",
+        "city": "N\u00fcrnberg"
+    },
+    "NLD": {
+        "country": "Mexico",
+        "city": "Nuevo Laredo"
+    },
+    "TBU": {
+        "country": "Tonga",
+        "city": "Nuku'alofa - Fua'Amotu International"
+    },
+    "OAK ": {
+        "country": "USA",
+        "city": "Oakland"
+    },
+    "OAX": {
+        "country": "Mexico",
+        "city": "Oaxaca - Xoxocotlan"
+    },
+    "ODE": {
+        "country": "Denmark",
+        "city": "Odense"
+    },
+    "ODS": {
+        "country": "Ukraine",
+        "city": "Odessa"
+    },
+    "ORB": {
+        "country": "Sweden",
+        "city": "Oerebro"
+    },
+    "OHD": {
+        "country": "Macedonia",
+        "city": "Ohrid"
+    },
+    "OIT": {
+        "country": "Japan",
+        "city": "Oita"
+    },
+    "OKJ": {
+        "country": "Japan",
+        "city": "Okayama"
+    },
+    "OKA": {
+        "country": "Japan",
+        "city": "Okinawa, Ryukyo Island - Naha"
+    },
+    "OKC": {
+        "country": "USA",
+        "city": "Oklahoma City"
+    },
+    "OLB": {
+        "country": "Italy",
+        "city": "Olbia"
+    },
+    "OLP": {
+        "country": "Australia",
+        "city": "Olympic Dam"
+    },
+    "OMA": {
+        "country": "USA",
+        "city": "Omaha"
+    },
+    "OND": {
+        "country": "Namibia",
+        "city": "Ondangwa"
+    },
+    "ONT": {
+        "country": "USA",
+        "city": "Ontario"
+    },
+    "ORN": {
+        "country": "Algeria",
+        "city": "Oran"
+    },
+    "OAG": {
+        "country": "Australia",
+        "city": "Orange"
+    },
+    "SNA": {
+        "country": "USA",
+        "city": "Santa Ana - John Wayne Airport"
+    },
+    "OMD": {
+        "country": "Namibia",
+        "city": "Oranjemund"
+    },
+    "ORL": {
+        "country": "USA",
+        "city": "Orlando Metropolitan Area"
+    },
+    "MCO": {
+        "country": "USA",
+        "city": "Orlando - International Airport"
+    },
+    "ORS": {
+        "country": "Australia",
+        "city": "Orpheus Island"
+    },
+    "OSA": {
+        "country": "Japan",
+        "city": "Osaka, Metropolitan Area"
+    },
+    "ITM": {
+        "country": "Japan",
+        "city": "Osaka - Itami"
+    },
+    "KIX": {
+        "country": "Japan",
+        "city": "Osaka - Kansai International Airport"
+    },
+    "OSH": {
+        "country": "USA",
+        "city": "Oshkosh"
+    },
+    "OSI": {
+        "country": "Croatia",
+        "city": "Osijek"
+    },
+    "OSL": {
+        "country": "Norway",
+        "city": "Oslo - Oslo Airport, Gardermoen"
+    },
+    "FBU": {
+        "country": "Norway",
+        "city": "Oslo - Fornebu"
+    },
+    "TRF": {
+        "country": "Norway",
+        "city": "Oslo - Sandefjord"
+    },
+    "YOW": {
+        "country": "Canada",
+        "city": "Ottawa - Hull"
+    },
+    "ODA": {
+        "country": "Central African Republic",
+        "city": "Ouadda"
+    },
+    "OZZ": {
+        "country": "Morocco",
+        "city": "Ouarzazate"
+    },
+    "OUH": {
+        "country": "South Africa",
+        "city": "Oudtshoorn"
+    },
+    "OUA": {
+        "country": "Burkina Faso",
+        "city": "Ouagadougou"
+    },
+    "OUD": {
+        "country": "Morocco",
+        "city": "Oujda"
+    },
+    "OUL": {
+        "country": "Finland",
+        "city": "Oulu"
+    },
+    "OUK": {
+        "country": "United Kingdom",
+        "city": "Out Skerries"
+    },
+    "OVD": {
+        "country": "Spain",
+        "city": "Oviedo"
+    },
+    "OWB": {
+        "country": "USA",
+        "city": "Owensboro"
+    },
+    "OXR": {
+        "country": "USA",
+        "city": "Oxnard"
+    },
+    "UVE": {
+        "country": "Gabon/Loyautte",
+        "city": "Oyem"
+    },
+    "PAD ": {
+        "country": "Germany",
+        "city": "Paderborn/Lippstadt"
+    },
+    "PAH": {
+        "country": "USA",
+        "city": "Paducah"
+    },
+    "PGA": {
+        "country": "USA",
+        "city": "Page/Lake Powell"
+    },
+    "PPG": {
+        "country": "American Samoa",
+        "city": "Pago Pago"
+    },
+    "PKB": {
+        "country": "USA",
+        "city": "Pakersburg"
+    },
+    "PMO": {
+        "country": "Italy",
+        "city": "Palermo - Punta Raisi"
+    },
+    "PMI": {
+        "country": "Spain",
+        "city": "Palma de Mallorca"
+    },
+    "PMW": {
+        "country": "Brazil",
+        "city": "Palmas"
+    },
+    "PMD": {
+        "country": "USA",
+        "city": "Palmdale/Lancaster"
+    },
+    "PMR": {
+        "country": "New Zealand",
+        "city": "Palmerston North"
+    },
+    "PSP": {
+        "country": "USA",
+        "city": "Palm Springs"
+    },
+    "PTY": {
+        "country": "Panama",
+        "city": "Panama City - Tocumen International"
+    },
+    "PFN": {
+        "country": "USA",
+        "city": "Panama City"
+    },
+    "PJG": {
+        "country": "Pakistan",
+        "city": "Panjgur"
+    },
+    "PNL": {
+        "country": "Italy",
+        "city": "Pantelleria"
+    },
+    "PPT": {
+        "country": "French Polynesia",
+        "city": "Papeete - Faaa"
+    },
+    "PFO": {
+        "country": "Cyprus",
+        "city": "Paphos"
+    },
+    "PBO": {
+        "country": "Australia",
+        "city": "Paraburdoo"
+    },
+    "PBM": {
+        "country": "Suriname",
+        "city": "Paramaribo - Zanderij International"
+    },
+    "PAR": {
+        "country": "France",
+        "city": "Paris"
+    },
+    "CDG": {
+        "country": "France",
+        "city": "Paris - Charles de Gaulle"
+    },
+    "LBG": {
+        "country": "France",
+        "city": "Paris - Le Bourget"
+    },
+    "ORY": {
+        "country": "France",
+        "city": "Paris - Orly"
+    },
+    "PBH": {
+        "country": "Bhutan",
+        "city": "Paro"
+    },
+    "PSC": {
+        "country": "USA",
+        "city": "Pasco"
+    },
+    "PSI": {
+        "country": "Pakistan",
+        "city": "Pasni"
+    },
+    "PAT": {
+        "country": "India",
+        "city": "Patna"
+    },
+    "PYX": {
+        "country": "Thailand",
+        "city": "Pattaya"
+    },
+    "PUF": {
+        "country": "France",
+        "city": "Pau"
+    },
+    "PLN": {
+        "country": "USA",
+        "city": "Pellston"
+    },
+    "PEN": {
+        "country": "Malaysia",
+        "city": "Penang International"
+    },
+    "PDT": {
+        "country": "USA",
+        "city": "Pendelton"
+    },
+    "PNS": {
+        "country": "USA",
+        "city": "Pensacola"
+    },
+    "PIA": {
+        "country": "USA",
+        "city": "Peoria/Bloomington"
+    },
+    "PEI": {
+        "country": "Colombia",
+        "city": "Pereira"
+    },
+    "PGF": {
+        "country": "France",
+        "city": "Perpignan"
+    },
+    "PER": {
+        "country": "Australia",
+        "city": "Perth International"
+    },
+    "PEG": {
+        "country": "Italy",
+        "city": "Perugia"
+    },
+    "PSR": {
+        "country": "Italy",
+        "city": "Pescara"
+    },
+    "PEW": {
+        "country": "Pakistan",
+        "city": "Peshawar"
+    },
+    "PSG": {
+        "country": "USA",
+        "city": "Petersburg"
+    },
+    "PHW": {
+        "country": "South Africa",
+        "city": "Phalaborwa"
+    },
+    "PHL": {
+        "country": "USA",
+        "city": "Philadelphia"
+    },
+    "PNH": {
+        "country": "Cambodia",
+        "city": "Phnom Penh - Pochentong"
+    },
+    "PHX": {
+        "country": "USA",
+        "city": "Phoenix"
+    },
+    "HKT": {
+        "country": "Thailand",
+        "city": "Phuket"
+    },
+    "PIR": {
+        "country": "USA",
+        "city": "Pierre"
+    },
+    "PZB": {
+        "country": "South Africa",
+        "city": "Pietermaritzburg"
+    },
+    "PTG": {
+        "country": "South Africa",
+        "city": "Pietersburg"
+    },
+    "NTY": {
+        "country": "South Africa",
+        "city": "Pilanesberg/Sun City"
+    },
+    "PSA": {
+        "country": "Italy",
+        "city": "Pisa - Galileo Galilei"
+    },
+    "PIT": {
+        "country": "USA",
+        "city": "Pittsburgh International Airport"
+    },
+    "PLB": {
+        "country": "USA",
+        "city": "Plattsburgh"
+    },
+    "PBZ": {
+        "country": "South Africa",
+        "city": "Plettenberg Bay"
+    },
+    "PIH": {
+        "country": "USA",
+        "city": "Pocatello"
+    },
+    "TGD": {
+        "country": "Montenegro",
+        "city": "Podgorica"
+    },
+    "PNI": {
+        "country": "Micronesia",
+        "city": "Pohnpei"
+    },
+    "PNR": {
+        "country": "Congo",
+        "city": "Pointe Noire"
+    },
+    "PIS": {
+        "country": "France",
+        "city": "Poitiers - Biard"
+    },
+    "PSE": {
+        "country": "Puerto Rico",
+        "city": "Ponce"
+    },
+    "PDL": {
+        "country": "Portugal",
+        "city": "Ponta Delgada"
+    },
+    "POR": {
+        "country": "Finland",
+        "city": "Pori"
+    },
+    "CLM": {
+        "country": "USA",
+        "city": "Port Angeles"
+    },
+    "PAP": {
+        "country": "Haiti",
+        "city": "Port au Prince"
+    },
+    "PUG": {
+        "country": "Australia",
+        "city": "Port Augusta"
+    },
+    "PLZ": {
+        "country": "South Africa",
+        "city": "Port Elizabeth"
+    },
+    "POG": {
+        "country": "Gabon",
+        "city": "Port Gentil"
+    },
+    "PHC": {
+        "country": "Nigeria",
+        "city": "Port Harcourt"
+    },
+    "PHE": {
+        "country": "Australia",
+        "city": "Port Hedland"
+    },
+    "PTJ": {
+        "country": "Australia",
+        "city": "Portland"
+    },
+    "PWM": {
+        "country": "USA",
+        "city": "Portland"
+    },
+    "PDX": {
+        "country": "USA",
+        "city": "Portland International"
+    },
+    "PLO": {
+        "country": "Australia",
+        "city": "Port Lincoln"
+    },
+    "PQQ": {
+        "country": "Australia",
+        "city": "Port Macquarie"
+    },
+    "YPN": {
+        "country": "Canada",
+        "city": "Port Menier, PQ"
+    },
+    "POM": {
+        "country": "Papua New Guinea",
+        "city": "Port Moresby - Jackson Field"
+    },
+    "OPO": {
+        "country": "Portugal",
+        "city": "Porto"
+    },
+    "POA": {
+        "country": "Brazil",
+        "city": "Porto Alegre - Salgado Filho International Airport"
+    },
+    "POS": {
+        "country": "Trinidad and Tobago",
+        "city": "Port of Spain - Piarco International"
+    },
+    "PSD": {
+        "country": "Egypt",
+        "city": "Port Said"
+    },
+    "PXO": {
+        "country": "Portugal",
+        "city": "Porto Santo"
+    },
+    "PVH": {
+        "country": "Brazil",
+        "city": "Porto Velho"
+    },
+    "VLI": {
+        "country": "Vanuatu",
+        "city": "Port Vila"
+    },
+    "POU": {
+        "country": "USA",
+        "city": "Poughkeepsie"
+    },
+    "POZ": {
+        "country": "Poland",
+        "city": "Poznan, Lawica"
+    },
+    "PRG": {
+        "country": "Czech Republic",
+        "city": "Prague - V\u00e1clav Havel Airport"
+    },
+    "RAI": {
+        "country": "Cape Verde",
+        "city": "Praia - Nelson Mandela International Airport"
+    },
+    "PQI": {
+        "country": "USA",
+        "city": "Presque Island"
+    },
+    "PRY": {
+        "country": "South Africa",
+        "city": "Pretoria - Wonderboom Apt"
+    },
+    "PVK": {
+        "country": "Greece",
+        "city": "Preveza/Lefkas"
+    },
+    "YXS": {
+        "country": "Canada",
+        "city": "Prince George"
+    },
+    "YPR": {
+        "country": "Canada",
+        "city": "Prince Rupert/Digby Island"
+    },
+    "PRN": {
+        "country": "Serbia",
+        "city": "Pristina"
+    },
+    "PPP": {
+        "country": "Australia",
+        "city": "Prosperpine"
+    },
+    "PVD": {
+        "country": "USA",
+        "city": "Providence"
+    },
+    "SCC": {
+        "country": "USA",
+        "city": "Prudhoe Bay"
+    },
+    "PBC": {
+        "country": "Mexico",
+        "city": "Puebla"
+    },
+    "PUB": {
+        "country": "USA",
+        "city": "Pueblo"
+    },
+    "PXM": {
+        "country": "Mexico",
+        "city": "Puerto Escondido"
+    },
+    "PZO": {
+        "country": "Venezuela",
+        "city": "Puerto Ordaz"
+    },
+    "POP": {
+        "country": "Dominican Republic",
+        "city": "Puerto Plata"
+    },
+    "PVR": {
+        "country": "Mexico",
+        "city": "Puerto Vallarta"
+    },
+    "XPK": {
+        "country": "Canada",
+        "city": "Pukatawagan"
+    },
+    "PUY": {
+        "country": "Croatia",
+        "city": "Pula"
+    },
+    "PUW": {
+        "country": "USA",
+        "city": "Pullman"
+    },
+    "PNQ": {
+        "country": "India, Maharashtra",
+        "city": "Pune"
+    },
+    "PUQ": {
+        "country": "Chile",
+        "city": "Punta Arenas - Presidente Carlos Ib\u00e1\u00f1ez del Campo "
+    },
+    "PUJ": {
+        "country": "Dominican Republic",
+        "city": "Punta Cana - Punta Cana International"
+    },
+    "PUS": {
+        "country": "South Korea",
+        "city": "Pu San"
+    },
+    "FNJ": {
+        "country": "North Korea",
+        "city": "Pyongyang - Sunan International Airport"
+    },
+    "YQB ": {
+        "country": "Canada",
+        "city": "Quebec - Quebec International"
+    },
+    "UEE": {
+        "country": "Australia",
+        "city": "Queenstown"
+    },
+    "ZQN": {
+        "country": "New Zealand",
+        "city": "Queenstown"
+    },
+    "UET": {
+        "country": "Pakistan",
+        "city": "Quetta"
+    },
+    "TAO": {
+        "country": "Shandong, PR China",
+        "city": "Qingdao"
+    },
+    "UIP": {
+        "country": "France",
+        "city": "Quimper"
+    },
+    "UIN": {
+        "country": "USA",
+        "city": "Quincy"
+    },
+    "UIO": {
+        "country": "Ecuador",
+        "city": "Quito - Mariscal Sucre International Airport"
+    },
+    "RBA ": {
+        "country": "Morocco",
+        "city": "Rabat - Rabat-Sal\u00e9 Airport"
+    },
+    "RYK": {
+        "country": "Pakistan",
+        "city": "Rahim Yar Khan - Shaikh Zayed International Airport"
+    },
+    "RFP": {
+        "country": "French Polynesia",
+        "city": "Raiatea"
+    },
+    "YOP": {
+        "country": "Canada",
+        "city": "Rainbow Lake, AB"
+    },
+    "RAJ": {
+        "country": "India",
+        "city": "Rajkot"
+    },
+    "RDU": {
+        "country": "USA",
+        "city": "Raleigh/Durham"
+    },
+    "IXR": {
+        "country": "India",
+        "city": "Ranchi"
+    },
+    "RGI": {
+        "country": "French Polynesia",
+        "city": "Rangiroa"
+    },
+    "RGN": {
+        "country": "Myanmar",
+        "city": "Yangon"
+    },
+    "RAP": {
+        "country": "USA",
+        "city": "Rapid City"
+    },
+    "RAR": {
+        "country": "Cook Island",
+        "city": "Rarotonga"
+    },
+    "RKT": {
+        "country": "United Arab Emirates",
+        "city": "Ras al Khaymah"
+    },
+    "RAZ": {
+        "country": "Pakistan",
+        "city": "Rawala Kot"
+    },
+    "RWP": {
+        "country": "Pakistan",
+        "city": "Rawalpindi"
+    },
+    "RDG": {
+        "country": "USA",
+        "city": "Reading"
+    },
+    "REC": {
+        "country": "Brazil",
+        "city": "Recife - Guararapes-Gilberto Freyre International"
+    },
+    "RDD": {
+        "country": "USA",
+        "city": "Redding"
+    },
+    "RDM": {
+        "country": "USA",
+        "city": "Redmond"
+    },
+    "REG": {
+        "country": "Italy",
+        "city": "Reggio Calabria"
+    },
+    "YQR": {
+        "country": "Canada",
+        "city": "Regina"
+    },
+    "TFS": {
+        "country": "Spain",
+        "city": "Tenerife - Sur Reina Sofia"
+    },
+    "RNS": {
+        "country": "France",
+        "city": "Rennes"
+    },
+    "RNO": {
+        "country": "USA",
+        "city": "Reno"
+    },
+    "YRB": {
+        "country": "Canada",
+        "city": "Resolute Bay"
+    },
+    "REU": {
+        "country": "Spain",
+        "city": "Reus"
+    },
+    "REK": {
+        "country": "Iceland",
+        "city": "Reykjavik - Metropolitan Area"
+    },
+    "KEF": {
+        "country": "Iceland",
+        "city": "Reykjavik - Keflavik International"
+    },
+    "RHI": {
+        "country": "USA",
+        "city": "Rhinelander"
+    },
+    "RHO": {
+        "country": "Greece",
+        "city": "Rhodos"
+    },
+    "RCB": {
+        "country": "South Africa",
+        "city": "Richards Bay"
+    },
+    "RIC": {
+        "country": "USA",
+        "city": "Richmond"
+    },
+    "RIX": {
+        "country": "Latvia",
+        "city": "Riga"
+    },
+    "RJK": {
+        "country": "Croatia",
+        "city": "Rijeka"
+    },
+    "RMI": {
+        "country": "Italy",
+        "city": "Rimini"
+    },
+    "RBR": {
+        "country": "Brazil",
+        "city": "Rio Branco - Pl\u00e1cido de Castro International Airport"
+    },
+    "GIG": {
+        "country": "Brazil",
+        "city": "Rio de Janeiro - Galeao"
+    },
+    "SDU": {
+        "country": "Brazil",
+        "city": "Rio de Janeiro - Santos Dumont"
+    },
+    "RIO": {
+        "country": "Brazil",
+        "city": "Rio de Janeiro"
+    },
+    "RUH": {
+        "country": "Saudi Arabia",
+        "city": "Riyadh - King Khaled International"
+    },
+    "RNE": {
+        "country": "France",
+        "city": "Roanne"
+    },
+    "ROA": {
+        "country": "USA",
+        "city": "Roanoke"
+    },
+    "RTB": {
+        "country": "Honduras",
+        "city": "Roatan"
+    },
+    "RST": {
+        "country": "USA",
+        "city": "Rochester"
+    },
+    "ROC": {
+        "country": "USA",
+        "city": "Rochester"
+    },
+    "RSD": {
+        "country": "Bahamas",
+        "city": "Rock Sound"
+    },
+    "RKS": {
+        "country": "USA",
+        "city": "Rock Springs"
+    },
+    "RFD": {
+        "country": "USA",
+        "city": "Rockford"
+    },
+    "ROK": {
+        "country": "Australia",
+        "city": "Rockhampton"
+    },
+    "RKD": {
+        "country": "USA",
+        "city": "Rockland"
+    },
+    "RWI": {
+        "country": "USA",
+        "city": "Rocky Mount - Wilson"
+    },
+    "RDZ": {
+        "country": "France",
+        "city": "Rodez"
+    },
+    "RRG": {
+        "country": "Mauritius",
+        "city": "Rodrigues Island"
+    },
+    "RNN": {
+        "country": "Denmark",
+        "city": "Roenne"
+    },
+    "ROM": {
+        "country": "Italy",
+        "city": "Rome"
+    },
+    "CIA": {
+        "country": "Italy",
+        "city": "Rome - Ciampino"
+    },
+    "FCO": {
+        "country": "Italy",
+        "city": "Rome - Fuimicino"
+    },
+    "RNB": {
+        "country": "Sweden",
+        "city": "Ronneby"
+    },
+    "ROS": {
+        "country": "Argentina",
+        "city": "Rosario"
+    },
+    "RVI": {
+        "country": "Russia",
+        "city": "Rostov-on-Don - Rostov-on-Don Airport"
+    },
+    "ROV": {
+        "country": "Russia",
+        "city": "Rostov-on-Don - Platov International Airport"
+    },
+    "ROT": {
+        "country": "New Zealand",
+        "city": "Rotorua"
+    },
+    "RTM": {
+        "country": "Netherlands",
+        "city": "Rotterdam"
+    },
+    "RVN": {
+        "country": "Finland",
+        "city": "Rovaniemi"
+    },
+    "NDU": {
+        "country": "Namibia",
+        "city": "Rundu"
+    },
+    "ROU": {
+        "country": "Bulgaria",
+        "city": "Ruse"
+    },
+    "SCN ": {
+        "country": "Germany",
+        "city": "Saarbruecken"
+    },
+    "SMF": {
+        "country": "USA",
+        "city": "Sacramento"
+    },
+    "SDS": {
+        "country": "Japan",
+        "city": "Sado Shima"
+    },
+    "MBS": {
+        "country": "USA",
+        "city": "Saginaw/Bay City/Midland"
+    },
+    "SDT": {
+        "country": "Pakistan",
+        "city": "Saidu Sharif"
+    },
+    "SBK": {
+        "country": "France",
+        "city": "Saint Brieuc"
+    },
+    "RUN": {
+        "country": "Reunion",
+        "city": "Saint Denis - Roland Garros Airport"
+    },
+    "YSJ": {
+        "country": "Canada",
+        "city": "Saint John"
+    },
+    "SPN": {
+        "country": "Northern Mariana Islands",
+        "city": "Saipan"
+    },
+    "SID": {
+        "country": "Cape Verde",
+        "city": "Sal"
+    },
+    "SLL": {
+        "country": "Oman",
+        "city": "Salalah"
+    },
+    "SLE": {
+        "country": "USA",
+        "city": "Salem"
+    },
+    "SNS": {
+        "country": "USA",
+        "city": "Salinas"
+    },
+    " SNC": {
+        "country": "Ecuador",
+        "city": "Salinas"
+    },
+    "SAY": {
+        "country": "Zimbabwe",
+        "city": "Salisbury"
+    },
+    "SBY": {
+        "country": "USA",
+        "city": "Salisbury"
+    },
+    "SKG": {
+        "country": "Greece",
+        "city": "Thessaloniki - Makedonia Apt"
+    },
+    "SLA": {
+        "country": "Argentina",
+        "city": "Salta, Gen Belgrano"
+    },
+    "SLC": {
+        "country": "USA",
+        "city": "Salt Lake City"
+    },
+    "SSA": {
+        "country": "Brazil",
+        "city": "Salvador - Salvador International Airport"
+    },
+    "SZG": {
+        "country": "Austria",
+        "city": "Salzburg - WA Mozart"
+    },
+    "KUF": {
+        "country": "Russia",
+        "city": "Samara - Kurumoch International Airport"
+    },
+    "SKD": {
+        "country": "Uzbekistan",
+        "city": "Samarkand - Samarkand International Airport"
+    },
+    "SMI": {
+        "country": "Greece",
+        "city": "Samos"
+    },
+    "SZF": {
+        "country": "Turkey",
+        "city": "Samsun"
+    },
+    "ADZ": {
+        "country": "Colombia",
+        "city": "San Andres"
+    },
+    "SJT": {
+        "country": "USA",
+        "city": "San Angelo"
+    },
+    "SAT": {
+        "country": "USA",
+        "city": "San Antonio"
+    },
+    "BRC": {
+        "country": "Argentina",
+        "city": "San Carlos de Bariloche"
+    },
+    "SAN": {
+        "country": "USA",
+        "city": "San Diego - Lindberg Field International"
+    },
+    "SFO": {
+        "country": "USA",
+        "city": "San Francisco - International Airport, SA"
+    },
+    "SJO": {
+        "country": "Costa Rica",
+        "city": "San Jose"
+    },
+    "SJC": {
+        "country": "USA",
+        "city": "San Jose"
+    },
+    "SJU": {
+        "country": "Puerto Rico",
+        "city": "San Juan - Luis Munoz Marin International Airport"
+    },
+    "SBP": {
+        "country": "USA",
+        "city": "San Luis Obisco"
+    },
+    "SLP": {
+        "country": "Mexico",
+        "city": "San Luis Potosi"
+    },
+    "SPY": {
+        "country": "Cote d'Ivoire",
+        "city": "San Pedro"
+    },
+    "SAP": {
+        "country": "Honduras",
+        "city": "San Pedro Sula"
+    },
+    "ZSA": {
+        "country": "Bahamas",
+        "city": "San Salvador"
+    },
+    "SAL": {
+        "country": "El Salvador",
+        "city": "San Salvador"
+    },
+    "EAS": {
+        "country": "Spain",
+        "city": "San Sebastian"
+    },
+    "SAH": {
+        "country": "Yemen",
+        "city": "Sanaa"
+    },
+    "YZP": {
+        "country": "Canada",
+        "city": "Sandspit"
+    },
+    "SBA": {
+        "country": "USA",
+        "city": "Santa Barbara"
+    },
+    "SPC": {
+        "country": "Spain",
+        "city": "Santa Cruz de la Palma"
+    },
+    "SRZ": {
+        "country": "Bolivia",
+        "city": "Santa Cruz de la Sierra"
+    },
+    "SKV": {
+        "country": "Egypt",
+        "city": "Santa Katarina - Mount Sinai"
+    },
+    "SMA": {
+        "country": "Portugal",
+        "city": "Santa Maria"
+    },
+    "SMX": {
+        "country": "USA",
+        "city": "Santa Maria"
+    },
+    "SDR": {
+        "country": "Spain",
+        "city": "Santander"
+    },
+    "STS": {
+        "country": "USA",
+        "city": "Santa Rosa"
+    },
+    "SRB": {
+        "country": "Bolivia",
+        "city": "Santa Rosa"
+    },
+    "SRA": {
+        "country": "Brazil",
+        "city": "Santa Rosa"
+    },
+    "RSA": {
+        "country": "Argentina",
+        "city": "Santa Rosa"
+    },
+    "SDH": {
+        "country": "Honduras",
+        "city": "Santa Rosa, Copan"
+    },
+    "SSL": {
+        "country": "Colombia",
+        "city": "Santa Rosalia"
+    },
+    "SRL": {
+        "country": "Mexico",
+        "city": "Santa Rosalia"
+    },
+    "SCU": {
+        "country": "Cuba",
+        "city": "Santiago - Antonio Maceo Airport"
+    },
+    "SCL": {
+        "country": "Chile",
+        "city": "Santiago de Chile - Arturo Merino Benitez"
+    },
+    "SCQ": {
+        "country": "Spain",
+        "city": "Santiago de Compostela"
+    },
+    "SON": {
+        "country": "Vanuatu",
+        "city": "Santo"
+    },
+    "SDQ": {
+        "country": "Dominican Republic",
+        "city": "Santo Domingo"
+    },
+    "SLZ": {
+        "country": "Brazil",
+        "city": "Sao Luis - Marechal Cunha Machado International"
+    },
+    "SAO": {
+        "country": "Brazil",
+        "city": "Sao Paulo"
+    },
+    "CGH": {
+        "country": "Brazil",
+        "city": "Sao Paulo - Congonhas"
+    },
+    "VCP": {
+        "country": "Brazil",
+        "city": "Sao Paulo - Viracopos"
+    },
+    "TMS": {
+        "country": "Sao Tome & Principe",
+        "city": "Sao Tome"
+    },
+    "SPK": {
+        "country": "Hokkaido, Japan",
+        "city": "Sapporo"
+    },
+    "OKD": {
+        "country": "Hokkaido, Japan",
+        "city": "Sapporo - Okadama"
+    },
+    "SJJ": {
+        "country": "Bosnia and Herzegovina",
+        "city": "Sarajevo"
+    },
+    "SKX": {
+        "country": "Russia",
+        "city": "Saransk - Saransk Airport"
+    },
+    "SRQ": {
+        "country": "USA",
+        "city": "Sarasota/Bradenton"
+    },
+    "YXE": {
+        "country": "Canada",
+        "city": "Saskatoon"
+    },
+    "ZSS": {
+        "country": "Cote d'Ivoire",
+        "city": "Sassandra"
+    },
+    "SAV": {
+        "country": "USA",
+        "city": "Savannah"
+    },
+    "SVL": {
+        "country": "Finland",
+        "city": "Savonlinna"
+    },
+    "TAB": {
+        "country": "Trinidad and Tobago",
+        "city": "Tobago"
+    },
+    "NSO": {
+        "country": "Australia",
+        "city": "Scone"
+    },
+    "SCF": {
+        "country": "USA",
+        "city": "Scottsdale"
+    },
+    "SEA": {
+        "country": "USA",
+        "city": "Seattle/Tacoma"
+    },
+    "SEB": {
+        "country": "Libya",
+        "city": "Sehba"
+    },
+    "SJY": {
+        "country": "Finland",
+        "city": "Seinaejoki"
+    },
+    "PKW": {
+        "country": "Botswana",
+        "city": "Selibi Phikwe"
+    },
+    "SDJ": {
+        "country": "Japan",
+        "city": "Sendai"
+    },
+    "SEL": {
+        "country": "South Korea",
+        "city": "Seoul - Kimpo"
+    },
+    "SVQ": {
+        "country": "Spain",
+        "city": "Sevilla"
+    },
+    "SFA": {
+        "country": "Tunisia",
+        "city": "Sfax"
+    },
+    "ZTM": {
+        "country": "Canada",
+        "city": "Shamattawa, MB"
+    },
+    "SHA": {
+        "country": "China",
+        "city": "Shanghai - Hongqiao"
+    },
+    "PVG": {
+        "country": "China",
+        "city": "Shanghai - Pu Dong"
+    },
+    "SNN": {
+        "country": "Ireland",
+        "city": "Shannon"
+    },
+    "SHJ": {
+        "country": "United Arab Emirates",
+        "city": "Sharjah"
+    },
+    "SSH": {
+        "country": "Egypt",
+        "city": "Sharm El Sheikh"
+    },
+    "SZD": {
+        "country": "United Kingdom",
+        "city": "Sheffield, City Airport"
+    },
+    "SHD": {
+        "country": "USA",
+        "city": "Shenandoah Valley/Stauton"
+    },
+    "SHE": {
+        "country": "Liaoning, PR China",
+        "city": "Shenyang"
+    },
+    "SZX": {
+        "country": "Guangdong, PR China",
+        "city": "Shenzhen - Shenzhen Bao'an International "
+    },
+    "SHR": {
+        "country": "USA",
+        "city": "Sheridan"
+    },
+    "SHV": {
+        "country": "USA",
+        "city": "Shreveport, La"
+    },
+    "JHQ": {
+        "country": "Australia",
+        "city": "Shute Harbour"
+    },
+    "SBW": {
+        "country": "Malaysia",
+        "city": "Sibu"
+    },
+    "SDY": {
+        "country": "USA",
+        "city": "Sidney"
+    },
+    "SLS": {
+        "country": "Bulgaria",
+        "city": "Silistra"
+    },
+    "SIP": {
+        "country": "Ukraine",
+        "city": "Simferopol"
+    },
+    "MPD": {
+        "country": "Pakistan",
+        "city": "Sindhri"
+    },
+    "SIN": {
+        "country": "Singapore",
+        "city": "Singapore - Changi"
+    },
+    "QPG": {
+        "country": "Singapore",
+        "city": "Singapore - Paya Lebar"
+    },
+    "XSP": {
+        "country": "Singapore",
+        "city": "Singapore - Seletar"
+    },
+    "SIX": {
+        "country": "Australia",
+        "city": "Singleton"
+    },
+    "SUX": {
+        "country": "USA",
+        "city": "Sioux City IA"
+    },
+    "FSD": {
+        "country": "USA",
+        "city": "Sioux Falls"
+    },
+    "SIS": {
+        "country": "South Africa",
+        "city": "Sishen"
+    },
+    "SIT": {
+        "country": "USA",
+        "city": "Sitka"
+    },
+    "VAS": {
+        "country": "Turkey",
+        "city": "Sivas"
+    },
+    "SEW": {
+        "country": "Egypt",
+        "city": "Siwa"
+    },
+    "SGY": {
+        "country": "USA",
+        "city": "Skagway"
+    },
+    "KDU": {
+        "country": "Pakistan",
+        "city": "Skardu"
+    },
+    "JSI": {
+        "country": "Greece",
+        "city": "Skiathos"
+    },
+    "SKP": {
+        "country": "Macedonia",
+        "city": "Skopje"
+    },
+    "SKS": {
+        "country": "Denmark",
+        "city": "Skrydstrup"
+    },
+    "SZK": {
+        "country": "South Africa",
+        "city": "Skukuza"
+    },
+    "SXL": {
+        "country": "Ireland",
+        "city": "Sligo"
+    },
+    "YYD": {
+        "country": "Canada",
+        "city": "Smithers"
+    },
+    "SOT": {
+        "country": "Finland",
+        "city": "Sodankylae"
+    },
+    "SGD": {
+        "country": "Denmark",
+        "city": "Soenderborg"
+    },
+    "SFJ": {
+        "country": "Greenland",
+        "city": "Soendre Stroemfjord"
+    },
+    "SOF": {
+        "country": "Bulgaria",
+        "city": "Sofia - Vrazhdebna"
+    },
+    "SOG": {
+        "country": "Norway",
+        "city": "Sogndal"
+    },
+    "SOU": {
+        "country": "United Kingdom",
+        "city": "Southampton - Eastleigh"
+    },
+    "SBN": {
+        "country": "USA",
+        "city": "South Bend"
+    },
+    "XSI": {
+        "country": "Canada",
+        "city": "South Indian Lake, MB"
+    },
+    "SOI": {
+        "country": "Australia",
+        "city": "South Molle Island"
+    },
+    "SEN": {
+        "country": "United Kingdom",
+        "city": "Southend"
+    },
+    "SPU": {
+        "country": "Croatia",
+        "city": "Split"
+    },
+    "GEG": {
+        "country": "USA",
+        "city": "Spokane"
+    },
+    "SBU": {
+        "country": "South Africa",
+        "city": "Springbok"
+    },
+    "SPI": {
+        "country": "USA",
+        "city": "Springfield"
+    },
+    "SGF": {
+        "country": "USA",
+        "city": "Springfield"
+    },
+    "SXR": {
+        "country": "India",
+        "city": "Srinagar"
+    },
+    "YIF": {
+        "country": "Canada",
+        "city": "St Augustin, PQ"
+    },
+    "STX": {
+        "country": "Virgin Islands",
+        "city": "St Croix"
+    },
+    "EBU": {
+        "country": "France",
+        "city": "St Etienne"
+    },
+    "SGU": {
+        "country": "USA",
+        "city": "St George"
+    },
+    "YYT": {
+        "country": "Canada",
+        "city": "St John's"
+    },
+    "STL": {
+        "country": "USA",
+        "city": "St Louis"
+    },
+    "UVF": {
+        "country": "Saint Lucia",
+        "city": "St Lucia Hewanorra"
+    },
+    "SXM": {
+        "country": "Netherlands Antilles",
+        "city": "St Marteen"
+    },
+    "SFG": {
+        "country": "St Martin",
+        "city": "St Martin"
+    },
+    "LED": {
+        "country": "Russia",
+        "city": "St Petersburg"
+    },
+    "FSP": {
+        "country": "Canada",
+        "city": "St Pierre, NF"
+    },
+    "STT": {
+        "country": "Virgin Islands",
+        "city": "St Thomas"
+    },
+    "SCE": {
+        "country": "USA",
+        "city": "State College/Belefonte"
+    },
+    "SVG": {
+        "country": "Norway",
+        "city": "Stavanger"
+    },
+    "HDN": {
+        "country": "USA",
+        "city": "Steamboat Springs"
+    },
+    "SZZ": {
+        "country": "Poland",
+        "city": "Stettin"
+    },
+    "STO": {
+        "country": "Sweden",
+        "city": "Stockholm Metropolitan Area"
+    },
+    "ARN": {
+        "country": "Sweden",
+        "city": "Stockholm - Arlanda"
+    },
+    "BMA": {
+        "country": "Sweden",
+        "city": "Stockholm - Bromma"
+    },
+    "SCK": {
+        "country": "USA",
+        "city": "Stockton"
+    },
+    "SYY": {
+        "country": "United Kingdom",
+        "city": "Stornway"
+    },
+    "SXB": {
+        "country": "France",
+        "city": "Strasbourg - Strasbourg Airport"
+    },
+    "KBY": {
+        "country": "Australia",
+        "city": "Streaky Bay"
+    },
+    "STR": {
+        "country": "Germany",
+        "city": "Stuttgart - Echterdingen"
+    },
+    "SUL": {
+        "country": "Pakistan",
+        "city": "Sui"
+    },
+    "SKZ": {
+        "country": "Pakistan",
+        "city": "Sukkur"
+    },
+    "LSI": {
+        "country": "United Kingdom",
+        "city": "Sumburgh"
+    },
+    "SUN": {
+        "country": "USA",
+        "city": "Sun Valley"
+    },
+    "SDL": {
+        "country": "Sweden",
+        "city": "Sundsvall"
+    },
+    "MCY": {
+        "country": "Australia",
+        "city": "Sunshine Coast"
+    },
+    "SUB": {
+        "country": "Indonesia",
+        "city": "Surabaya - Juanda"
+    },
+    "STV": {
+        "country": "India",
+        "city": "Surat"
+    },
+    "SWP": {
+        "country": "Namibia",
+        "city": "Swakopmund"
+    },
+    "SYD": {
+        "country": "Australia",
+        "city": "Sydney - Sydney Airport"
+    },
+    "ZYL": {
+        "country": "Bangladesh",
+        "city": "Sylhet"
+    },
+    "SYR": {
+        "country": "USA",
+        "city": "Syracuse"
+    },
+    "TUU ": {
+        "country": "Saudi Arabia",
+        "city": "Tabuk"
+    },
+    "TIF": {
+        "country": "Saudi Arabia",
+        "city": "Taif"
+    },
+    "TPE": {
+        "country": "Taiwan",
+        "city": "Taipei - Chiang Kai Shek"
+    },
+    "TAY": {
+        "country": "Taiwan",
+        "city": "Taipei - Sung Shan"
+    },
+    "TYN": {
+        "country": "Shanxi, PR China",
+        "city": "Taiyuan"
+    },
+    "TAK": {
+        "country": "Japan",
+        "city": "Takamatsu"
+    },
+    "TKA": {
+        "country": "USA",
+        "city": "Talkeetna"
+    },
+    "TLH": {
+        "country": "USA",
+        "city": "Tallahassee"
+    },
+    "QUF": {
+        "country": "Estonia",
+        "city": "Tallinn - Pirita Harbour"
+    },
+    "TLL": {
+        "country": "Estonia",
+        "city": "Tallinn - Ulemiste"
+    },
+    "TPA": {
+        "country": "USA",
+        "city": "Tampa - International"
+    },
+    "TMP": {
+        "country": "Finland",
+        "city": "Tampere"
+    },
+    "TAM": {
+        "country": "Mexico",
+        "city": "Tampico - Gen F Javier Mina"
+    },
+    "TMW": {
+        "country": "Australia",
+        "city": "Tamworth"
+    },
+    "TNG": {
+        "country": "Morocco",
+        "city": "Tangier - Boukhalef"
+    },
+    "TRO": {
+        "country": "Australia",
+        "city": "Taree"
+    },
+    "TGV": {
+        "country": "Bulgaria",
+        "city": "Targovishte"
+    },
+    "TAS": {
+        "country": "Uzbekistan",
+        "city": "Tashkent - International"
+    },
+    "TWU": {
+        "country": "Malaysia",
+        "city": "Tawau"
+    },
+    "TBS": {
+        "country": "Georgia",
+        "city": "Tbilisi - Novo Alexeyevka"
+    },
+    "TEU": {
+        "country": "New Zealand",
+        "city": "Te Anau"
+    },
+    "MME": {
+        "country": "United Kingdom",
+        "city": "Teesside, Durham Tees Valley"
+    },
+    "TGU": {
+        "country": "Honduras",
+        "city": "Tegucigalpa"
+    },
+    "THR": {
+        "country": "Iran",
+        "city": "Tehran"
+    },
+    "TEQ": {
+        "country": "Turkey",
+        "city": "Tekirdag - Corlu"
+    },
+    "TLV": {
+        "country": "Israel",
+        "city": "Tel Aviv - Ben Gurion International"
+    },
+    "TEX": {
+        "country": "USA",
+        "city": "Telluride"
+    },
+    "TEM": {
+        "country": "Australia",
+        "city": "Temora"
+    },
+    "TCI": {
+        "country": "Spain",
+        "city": "Tenerife"
+    },
+    "TCA": {
+        "country": "Australia",
+        "city": "Tennant Creek"
+    },
+    "TER": {
+        "country": "Portugal",
+        "city": "Terceira"
+    },
+    "THE": {
+        "country": "Brazil",
+        "city": "Teresina"
+    },
+    "TMZ": {
+        "country": "Uzbekistan",
+        "city": "Termez"
+    },
+    "YXT": {
+        "country": "Canada",
+        "city": "Terrace"
+    },
+    "HUF": {
+        "country": "USA",
+        "city": "Terre Haute"
+    },
+    "TXK": {
+        "country": "USA",
+        "city": "Texarkana"
+    },
+    "TCU": {
+        "country": "South Africa",
+        "city": "Thaba'Nchu"
+    },
+    "YQD": {
+        "country": "Canada",
+        "city": "The Pas"
+    },
+    "TVF": {
+        "country": "USA",
+        "city": "Thief River Falls"
+    },
+    "JTR": {
+        "country": "Greece",
+        "city": "Thira"
+    },
+    "TRV": {
+        "country": "India",
+        "city": "Thiruvananthapuram"
+    },
+    "TED": {
+        "country": "Denmark",
+        "city": "Thisted"
+    },
+    "YTH": {
+        "country": "Canada",
+        "city": "Thompson"
+    },
+    "KTB": {
+        "country": "USA",
+        "city": "Thorne Bay"
+    },
+    "YQT": {
+        "country": "Canada",
+        "city": "Thunder Bay"
+    },
+    "TIS": {
+        "country": "Australia",
+        "city": "Thursday Island"
+    },
+    "TSN": {
+        "country": "China",
+        "city": "Tianjin"
+    },
+    "TIJ": {
+        "country": "Mexico",
+        "city": "Tijuana - Rodriguez"
+    },
+    "TOD": {
+        "country": "Indonesia",
+        "city": "Tioman"
+    },
+    "TIA": {
+        "country": "Albania",
+        "city": "Tirana - Rinas"
+    },
+    "TRZ": {
+        "country": "India",
+        "city": "Tiruchirapally"
+    },
+    "TIV": {
+        "country": "Montenegro",
+        "city": "Tivat"
+    },
+    "TKS": {
+        "country": "Japan",
+        "city": "Tokushima"
+    },
+    "TYO": {
+        "country": "Japan",
+        "city": "Tokyo"
+    },
+    "HND": {
+        "country": "Japan",
+        "city": "Tokyo - Haneda"
+    },
+    "NRT": {
+        "country": "Japan",
+        "city": "Tokyo - Narita"
+    },
+    "TOL": {
+        "country": "USA",
+        "city": "Toledo"
+    },
+    "TPR": {
+        "country": "Australia",
+        "city": "Tom Price"
+    },
+    "TWB": {
+        "country": "Australia",
+        "city": "Toowoomba"
+    },
+    "YTZ": {
+        "country": "Canada",
+        "city": "Toronto - Billy Bishop Toronto City Airport"
+    },
+    "YYZ": {
+        "country": "Canada",
+        "city": "Toronto - Toronto Pearson International Airport"
+    },
+    "YTO": {
+        "country": "Canada",
+        "city": "Toronto"
+    },
+    "TOV": {
+        "country": "British Virgin Islands",
+        "city": "Tortola"
+    },
+    "TOU": {
+        "country": "New Caledonia",
+        "city": "Touho"
+    },
+    "TLS": {
+        "country": "France",
+        "city": "Toulouse - Blagnac Airport"
+    },
+    "TSV": {
+        "country": "Australia",
+        "city": "Townsville"
+    },
+    "TOY": {
+        "country": "Japan",
+        "city": "Toyama"
+    },
+    "TZX": {
+        "country": "Turkey",
+        "city": "Trabzon"
+    },
+    "TPS": {
+        "country": "Italy",
+        "city": "Trapani"
+    },
+    "TVC": {
+        "country": "USA",
+        "city": "Traverse City"
+    },
+    "TCB": {
+        "country": "Bahamas",
+        "city": "Treasure Cay"
+    },
+    "TTN": {
+        "country": "USA",
+        "city": "Trenton/Princeton"
+    },
+    "TSF": {
+        "country": "Italy",
+        "city": "Treviso"
+    },
+    "TRI": {
+        "country": "USA",
+        "city": "Tri-Cities Regional"
+    },
+    "TRS": {
+        "country": "Italy",
+        "city": "Trieste"
+    },
+    "TIP": {
+        "country": "Libya",
+        "city": "Tripoli - Tripoli International"
+    },
+    "TOS": {
+        "country": "Norway",
+        "city": "Tromsoe"
+    },
+    "TRD": {
+        "country": "Norway",
+        "city": "Trondheim"
+    },
+    "TSB": {
+        "country": "Namibia",
+        "city": "Tsumeb"
+    },
+    "TUS": {
+        "country": "USA",
+        "city": "Tucson"
+    },
+    "TUP": {
+        "country": "USA",
+        "city": "Tulepo"
+    },
+    "TUL": {
+        "country": "USA",
+        "city": "Tulsa"
+    },
+    "TUN": {
+        "country": "Tunisia",
+        "city": "Tunis - Carthage"
+    },
+    "TUK": {
+        "country": "Pakistan",
+        "city": "Turbat"
+    },
+    "TRN": {
+        "country": "Italy",
+        "city": "Turin"
+    },
+    "TKU": {
+        "country": "Finland",
+        "city": "Turku"
+    },
+    "TCL": {
+        "country": "USA",
+        "city": "Tuscaloosa"
+    },
+    "TGZ": {
+        "country": "Mexico",
+        "city": "Tuxtla Gutierrez"
+    },
+    "TWF": {
+        "country": "USA",
+        "city": "Twin Falls"
+    },
+    "TYR": {
+        "country": "USA",
+        "city": "Tyler"
+    },
+    "UAH": {
+        "country": "French Polynesia",
+        "city": "Ua Huka"
+    },
+    "UAP": {
+        "country": "French Polynesia",
+        "city": "Ua Pou"
+    },
+    "UBJ": {
+        "country": "Japan",
+        "city": "Ube"
+    },
+    "UBA": {
+        "country": "Brazil",
+        "city": "Uberaba"
+    },
+    "UDI": {
+        "country": "Brazil",
+        "city": "Uberlandia - Eduardo Gomes Airport"
+    },
+    "UBP": {
+        "country": "Thailand",
+        "city": "Ubon Ratchathani - Muang Ubon Airport"
+    },
+    "UDR": {
+        "country": "India",
+        "city": "Udaipur - Dabok Airport"
+    },
+    "UDE": {
+        "country": "Netherlands",
+        "city": "Uden - Volkel Airport"
+    },
+    "UTH": {
+        "country": "Thailand",
+        "city": "Udon Thani"
+    },
+    "UFA": {
+        "country": "Russia",
+        "city": "Ufa"
+    },
+    "UHE": {
+        "country": "Czech Republic",
+        "city": "Uherske Hradiste"
+    },
+    "UGO": {
+        "country": "Angola",
+        "city": "Uige"
+    },
+    "UPG": {
+        "country": "Indonesia",
+        "city": "Ujung Pandang - Hasanudin Airport"
+    },
+    "UCT": {
+        "country": "Russia",
+        "city": "Ukhta"
+    },
+    "UKI": {
+        "country": "USA",
+        "city": "Ukiah"
+    },
+    "ULN": {
+        "country": "Mongolia",
+        "city": "Ulaanbaatar - Buyant Uhaa Airport"
+    },
+    "UUD": {
+        "country": "Russia",
+        "city": "Ulan-Ude"
+    },
+    "HLH": {
+        "country": "China",
+        "city": "Ulanhot"
+    },
+    "ULB": {
+        "country": "Vanuatu",
+        "city": "Ulei"
+    },
+    "USN": {
+        "country": "South Korea",
+        "city": "Ulsan"
+    },
+    "ULD": {
+        "country": "South Africa",
+        "city": "Ulundi"
+    },
+    "UME": {
+        "country": "Sweden",
+        "city": "Umea"
+    },
+    "YUD": {
+        "country": "Canada",
+        "city": "Umiujaq"
+    },
+    "UTT": {
+        "country": "South Africa",
+        "city": "Umtata"
+    },
+    "UNK": {
+        "country": "USA",
+        "city": "Unalakleet"
+    },
+    "UNI": {
+        "country": "Saint Vincent and the Grenadines",
+        "city": "Union Island"
+    },
+    "UNT": {
+        "country": "United Kingdom",
+        "city": "Unst"
+    },
+    "UPL": {
+        "country": "Costa Rica",
+        "city": "Upala"
+    },
+    "JUV": {
+        "country": "Greenland",
+        "city": "Upernavik - Upernavik Heliport"
+    },
+    "UTN": {
+        "country": "South Africa",
+        "city": "Upington"
+    },
+    "UPP": {
+        "country": "USA",
+        "city": "Upolu Point"
+    },
+    "YBE": {
+        "country": "Canada",
+        "city": "Uranium City"
+    },
+    "UGC": {
+        "country": "Uzbekistan",
+        "city": "Urgench"
+    },
+    "URM": {
+        "country": "Venezuela",
+        "city": "Uriman"
+    },
+    "OMH": {
+        "country": "Iran",
+        "city": "Urmiehm"
+    },
+    "UPN": {
+        "country": "Mexico",
+        "city": "Uruapan"
+    },
+    "URB": {
+        "country": "Brazil",
+        "city": "Urubupunga - Ernesto Pochler Airport"
+    },
+    "URG": {
+        "country": "Brazil",
+        "city": "Uruguaiana - Ruben Berta Airport"
+    },
+    "URC": {
+        "country": "Xinjiang, PR China",
+        "city": "Urumqi"
+    },
+    "URZ": {
+        "country": "Afghanistan",
+        "city": "Uruzgan"
+    },
+    "USH": {
+        "country": "Argentina",
+        "city": "Ushuaia - Islas Malvinas Airport"
+    },
+    "UTP": {
+        "country": "Thailand",
+        "city": "Utapao"
+    },
+    "UCA": {
+        "country": "USA",
+        "city": "Utica"
+    },
+    "UII": {
+        "country": "Honduras",
+        "city": "Utila"
+    },
+    "UMD": {
+        "country": "Greenland",
+        "city": "Uummannaq"
+    },
+    "UDJ": {
+        "country": "Ukraine",
+        "city": "Uzhgorod"
+    },
+    "VAA ": {
+        "country": "Finland",
+        "city": "Vaasa"
+    },
+    "VXO": {
+        "country": "Sweden",
+        "city": "Vaexjoe"
+    },
+    "EGE": {
+        "country": "USA",
+        "city": "Vail"
+    },
+    "YVO": {
+        "country": "Canada",
+        "city": "Val d'Or"
+    },
+    "VDZ": {
+        "country": "USA",
+        "city": "Valdez"
+    },
+    "VLD": {
+        "country": "USA",
+        "city": "Valdosta"
+    },
+    "VLC": {
+        "country": "Spain",
+        "city": "Valencia"
+    },
+    "VLN": {
+        "country": "Venezuela",
+        "city": "Valencia"
+    },
+    "VLL": {
+        "country": "Spain",
+        "city": "Valladolid"
+    },
+    "VAP": {
+        "country": "Chile",
+        "city": "Valparaiso"
+    },
+    "VDE": {
+        "country": "Spain",
+        "city": "Valverde"
+    },
+    "VAN": {
+        "country": "Turkey",
+        "city": "Van - Ferit Melen"
+    },
+    "YVR": {
+        "country": "Canada",
+        "city": "Vancouver - Vancouver International"
+    },
+    "VRA": {
+        "country": "Cuba",
+        "city": "Varadero"
+    },
+    "VNS": {
+        "country": "India",
+        "city": "Varanasi"
+    },
+    "VRK": {
+        "country": "Finland",
+        "city": "Varkaus"
+    },
+    "VAR": {
+        "country": "Bulgaria",
+        "city": "Varna"
+    },
+    "VST": {
+        "country": "Sweden",
+        "city": "Vasteras"
+    },
+    "VLU": {
+        "country": "Russia",
+        "city": "Velikiye Luki"
+    },
+    "VCE": {
+        "country": "Italy",
+        "city": "Venice - Marco Polo"
+    },
+    "VER": {
+        "country": "Mexico",
+        "city": "Veracruz"
+    },
+    "VEL": {
+        "country": "USA",
+        "city": "Vernal"
+    },
+    "VRB": {
+        "country": "USA",
+        "city": "Vero Beach/Ft Pierce"
+    },
+    "VRN": {
+        "country": "Italy",
+        "city": "Verona"
+    },
+    "YYJ": {
+        "country": "Canada",
+        "city": "Victoria"
+    },
+    "VFA": {
+        "country": "Zimbabwe",
+        "city": "Victoria Falls"
+    },
+    "VID": {
+        "country": "Bulgaria",
+        "city": "Vidin"
+    },
+    "VTE": {
+        "country": "Lao PDR",
+        "city": "Vientiane - Wattay"
+    },
+    "VGO": {
+        "country": "Spain",
+        "city": "Vigo"
+    },
+    "VSA": {
+        "country": "Mexico",
+        "city": "Villahermosa"
+    },
+    "VNO": {
+        "country": "Lithuania",
+        "city": "Wilna"
+    },
+    "VIJ": {
+        "country": "Virgin Islands",
+        "city": "Virgin Gorda"
+    },
+    "VIS": {
+        "country": "USA",
+        "city": "Visalia"
+    },
+    "VBY": {
+        "country": "Sweden",
+        "city": "Visby"
+    },
+    "VIT": {
+        "country": "Spain",
+        "city": "Vitoria"
+    },
+    "VIX": {
+        "country": "Brazil",
+        "city": "Vitoria - Eurico de Aguiar Salles Airport"
+    },
+    "VYD": {
+        "country": "South Africa",
+        "city": "Vryheid"
+    },
+    "YWK ": {
+        "country": "Canada",
+        "city": "Wabush"
+    },
+    "ACT": {
+        "country": "USA",
+        "city": "Waco"
+    },
+    "WGA": {
+        "country": "Australia",
+        "city": "Wagga"
+    },
+    "ALW": {
+        "country": "USA",
+        "city": "Walla Walla"
+    },
+    "WLS": {
+        "country": "Wallis and Futuna Islands",
+        "city": "Wallis"
+    },
+    "WVB": {
+        "country": "South Africa",
+        "city": "Walvis Bay"
+    },
+    "WMB": {
+        "country": "Australia",
+        "city": "Warrnambool"
+    },
+    "WAW": {
+        "country": "Poland",
+        "city": "Warsaw - Fr\u00e9d\u00e9ric Chopin"
+    },
+    "IAD": {
+        "country": "USA",
+        "city": "Washington DC - Dulles International"
+    },
+    "DCA": {
+        "country": "USA",
+        "city": "Washington DC - Ronald Reagan National"
+    },
+    "WAS": {
+        "country": "USA",
+        "city": "Washington DC"
+    },
+    "ALO": {
+        "country": "USA",
+        "city": "Waterloo IA"
+    },
+    "ATY": {
+        "country": "USA",
+        "city": "Watertown"
+    },
+    "CWA": {
+        "country": "USA",
+        "city": "Wausau/Stevens Point"
+    },
+    "WEI": {
+        "country": "Australia",
+        "city": "Weipa"
+    },
+    "WEL": {
+        "country": "South Africa",
+        "city": "Welkom"
+    },
+    "WLG": {
+        "country": "New Zealand",
+        "city": "Wellington"
+    },
+    "EAT": {
+        "country": "USA",
+        "city": "Wenatchee"
+    },
+    "PBI": {
+        "country": "USA",
+        "city": "West Palm Beach"
+    },
+    "WYS": {
+        "country": "USA",
+        "city": "West Yellowstone"
+    },
+    "GWT": {
+        "country": "Germany",
+        "city": "Westerland, Sylt Airport"
+    },
+    "WHK": {
+        "country": "New Zealand",
+        "city": "Whakatane"
+    },
+    "YXN": {
+        "country": "Canada",
+        "city": "Whale Cove, NT"
+    },
+    "WRE": {
+        "country": "New Zealand",
+        "city": "Whangarei"
+    },
+    "HPN": {
+        "country": "USA",
+        "city": "White Plains"
+    },
+    "YXY": {
+        "country": "Canada",
+        "city": "Whitehorse"
+    },
+    "HAP": {
+        "country": "Australia",
+        "city": "Whitsunday Resort"
+    },
+    "WYA": {
+        "country": "Australia",
+        "city": "Whyalla"
+    },
+    "SPS": {
+        "country": "USA",
+        "city": "Wichita Falls"
+    },
+    "ICT": {
+        "country": "USA",
+        "city": "Wichita"
+    },
+    "WIC": {
+        "country": "United Kingdom",
+        "city": "Wick"
+    },
+    "WHM": {
+        "country": "Australia",
+        "city": "Wickham"
+    },
+    "VIE": {
+        "country": "Austria",
+        "city": "Wien"
+    },
+    "WIE": {
+        "country": "Germany",
+        "city": "Wiesbaden, Air Base"
+    },
+    "AVP": {
+        "country": "USA",
+        "city": "Wilkes Barre/Scranton"
+    },
+    "IPT": {
+        "country": "USA",
+        "city": "Williamsport"
+    },
+    "ISL": {
+        "country": "USA",
+        "city": "Williston"
+    },
+    "ILM": {
+        "country": "USA",
+        "city": "Wilmington"
+    },
+    "WUN": {
+        "country": "Australia",
+        "city": "Wiluna"
+    },
+    "ERS": {
+        "country": "Namibia",
+        "city": "Windhoek - Eros"
+    },
+    "WDH": {
+        "country": "Namibia",
+        "city": "Windhoek - Hosea Kutako International"
+    },
+    "YQG": {
+        "country": "Canada",
+        "city": "Windsor Ontario"
+    },
+    "YWG": {
+        "country": "Canada",
+        "city": "Winnipeg International"
+    },
+    "OLF": {
+        "country": "USA",
+        "city": "Wolf Point"
+    },
+    "WOL": {
+        "country": "Australia",
+        "city": "Wollongong"
+    },
+    "UMR": {
+        "country": "Australia",
+        "city": "Woomera"
+    },
+    "ORH": {
+        "country": "USA",
+        "city": "Worcester"
+    },
+    "WRL": {
+        "country": "USA",
+        "city": "Worland"
+    },
+    "WRG": {
+        "country": "USA",
+        "city": "Wrangell"
+    },
+    "WUH": {
+        "country": "Hubei, PR China",
+        "city": "Wuhan"
+    },
+    "WYN": {
+        "country": "Australia",
+        "city": "Wyndham"
+    },
+    "XMN ": {
+        "country": "Fujian, PR China",
+        "city": "Xiamen"
+    },
+    "XIY": {
+        "country": "Shaanxi, PR China",
+        "city": "Xi'an - Xianyang"
+    },
+    "YKM": {
+        "country": "USA",
+        "city": "Yakima"
+    },
+    "YAK": {
+        "country": "USA",
+        "city": "Yakutat"
+    },
+    "YKS": {
+        "country": "Russia",
+        "city": "Yakutsk"
+    },
+    "GAJ": {
+        "country": "Japan",
+        "city": "Yamagata, Junmachi"
+    },
+    "ASK": {
+        "country": "C\u00f4te d'Ivoire",
+        "city": "Yamoussoukro"
+    },
+    "YNB": {
+        "country": "Saudi Arabia",
+        "city": "Yanbu"
+    },
+    "YAO": {
+        "country": "Cameroon",
+        "city": "Yaounde"
+    },
+    "YZF": {
+        "country": "Canada",
+        "city": "Yellowknife"
+    },
+    "SVX": {
+        "country": "Russia",
+        "city": "Yekaterinburg - Koltsovo Airport"
+    },
+    "YIH": {
+        "country": "Hubei, PR China",
+        "city": "Yichang"
+    },
+    "YOK": {
+        "country": "Japan",
+        "city": "Yokohama"
+    },
+    "YUM": {
+        "country": "USA",
+        "city": "Yuma"
+    },
+    "ZCL": {
+        "country": "Mexico",
+        "city": "Zacatecas"
+    },
+    "ZAD": {
+        "country": "Croatia",
+        "city": "Zadar"
+    },
+    "ZAG": {
+        "country": "Croatia",
+        "city": "Zagreb - Zagreb Airport Pleso"
+    },
+    "ZTH": {
+        "country": "Greece",
+        "city": "Zakynthos"
+    },
+    "ZAZ": {
+        "country": "Spain",
+        "city": "Zaragoza"
+    },
+    "PZH": {
+        "country": "Pakistan",
+        "city": "Zhob"
+    },
+    "ZND": {
+        "country": "Niger",
+        "city": "Zinder"
+    },
+    "OUZ": {
+        "country": "Mauritania",
+        "city": "Zouerate"
+    },
+    "ZRH": {
+        "country": "Switzerland",
+        "city": "Zurich"
+    }
+}
