@@ -8,7 +8,7 @@ def logMatrixAsPrettyTable(matrix, countries, filename):
     table = PrettyTable()
     table.field_names = ["\t"] + countries
     
-    for i in range(len(countries)):
+    for i in range(len(matrix)):
         table.add_row([countries[i]] + list(matrix[i, :]))
     
     with open(filename, "w") as f:
@@ -70,6 +70,7 @@ def getTransitionMatrix(countries):
             trans = generateTransitionMatrix(countries)
     except:
         trans = generateTransitionMatrix(countries)
+    return trans
 
 # logMatrixAsPrettyTable(getTransitionMatrix(countries), countries)
 # print(readMatrixAndCountries("matrix.txt"))

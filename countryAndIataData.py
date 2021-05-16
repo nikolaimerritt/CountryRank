@@ -100,7 +100,7 @@ def generateCountryToIataOfCapital():
     countryToIataOfCapital = {}
     
     for country in countryToCapital.keys():
-        capital = countryToCapital[country]
+        capital = before(countryToCapital[country], ",")
         for iata in iataToCountryCity.keys():
             if iataToCountryCity[iata]["country"] == country:
                 if capital == iataToCountryCity[iata]["city"] or capital + " " in iataToCountryCity[iata]["city"] or " " + capital in iataToCountryCity[iata]["city"]:
@@ -116,7 +116,7 @@ def getCountryToIataOfCapital():
     return loadJsonFileElseGenerate("country-to-iata-of-capital.json", generateCountryToIataOfCapital)
 
 
-def downloadRankedCountries():
+def downloadCountriesToPopln():
     url = "https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)"
     html = requests.get(url).content
     soup = BeautifulSoup(html, "html.parser")
@@ -135,10 +135,11 @@ def downloadRankedCountries():
     sorted(rankedCountries, key=lambda country: countryToPopulation[country])
     return countryToPopulation
 
-def getRankedCountries():
-    countryAndPopln = loadJsonFileElseGenerate("ranked-countries.json", downloadRankedCountries)
+def getCountriesSortedByPopln():
+    countryAndPopln = loadJsonFileElseGenerate("country-and-popln.json", downloadCountriesToPopln)
     countries = countryAndPopln.keys()
     countries = sorted(countries, key=lambda country: countryAndPopln[country], reverse=True)
     return countries
+
 
 json.dump(generateCountryToIataOfCapital(), open("country-to-iata-of-capital.json", "w"))

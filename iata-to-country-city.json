@@ -547,13 +547,9 @@
         "country": "Central African Republic",
         "city": "Bangassou"
     },
-    "DMK": {
-        "country": "Thailand",
-        "city": "Bangkok, Don Muang"
-    },
     "BKK": {
         "country": "Thailand",
-        "city": "Bangkok, Suvarnabhumi International"
+        "city": "Bangkok"
     },
     "BGR": {
         "country": "USA",
@@ -944,7 +940,7 @@
         "city": "Bratislava - M R \u0160tef\u00e1nik Airport"
     },
     "BZV": {
-        "country": "Congo",
+        "country": "DR Congo",
         "city": "Brazzaville - Maya-Maya Airport"
     },
     "BRE": {
@@ -3552,7 +3548,7 @@
         "city": "St Vincent"
     },
     "FIH": {
-        "country": "Congo",
+        "country": "DR Congo",
         "city": "Kinshasa - N'Djili"
     },
     "CXI": {
@@ -3576,7 +3572,7 @@
         "city": "Kiruna"
     },
     "FKI": {
-        "country": "Congo",
+        "country": "DR Congo",
         "city": "Kisangani"
     },
     "KTT": {
@@ -4000,7 +3996,7 @@
         "city": "Linz - Hoersching"
     },
     "LIQ": {
-        "country": "Congo",
+        "country": "DR Congo",
         "city": "Lisala"
     },
     "LIS": {
@@ -4152,7 +4148,7 @@
         "city": "Lulea"
     },
     "FBM": {
-        "country": "Congo",
+        "country": "DR Congo",
         "city": "Lumbumbashi"
     },
     "LUN": {
@@ -4302,10 +4298,6 @@
     "MHT": {
         "country": "USA",
         "city": "Manchester"
-    },
-    "MDL": {
-        "country": "Myanmar",
-        "city": "Mandalay - Mandalay-Annisaton Airport"
     },
     "MFO": {
         "country": "Papua New Guinea",
@@ -5600,7 +5592,7 @@
         "city": "Pohnpei"
     },
     "PNR": {
-        "country": "Congo",
+        "country": "DR Congo",
         "city": "Pointe Noire"
     },
     "PIS": {

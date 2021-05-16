@@ -1,7 +1,7 @@
 import requests
 import json
 import datetime
-from countryAndIataData import getCountryToIataOfCapital, getIataToCountryCity, getRankedCountries
+from countryAndIataData import getCountryToIataOfCapital, getIataToCountryCity, getCountriesOrderedByPopln
 
 
 def readAccessToken():
@@ -45,5 +45,3 @@ def countryToArrivalFlightCountFrom(depCountry, countries):
                 counts[arrivalCountry] += 1
     
     return counts
-
-countries = getRankedCountries()[0 : 30]
