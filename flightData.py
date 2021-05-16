@@ -1,12 +1,12 @@
 import requests
 import json
 import datetime
-from countryAndIataData import getCountryToIataOfCapital, getIataToCountryCity, getCountriesOrderedByPopln
+from countryAndIataData import getCountryToIataOfCapital, getIataToCountryCity, getCountriesSortedByPopln
 
 
 def readAccessToken():
     """ reads access token from file """
-    with open("AccessToken.txt", "r") as f:
+    with open("private/AccessToken.txt", "r") as f:
         return f.read()
 
 

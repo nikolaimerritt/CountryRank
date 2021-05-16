@@ -16,7 +16,7 @@ def before(text, subtext):
 
 def loadJsonFileElseGenerate(filename, generateData):
     try:
-        return json.load(open(filename, "r"))
+        return json.load(open("json/" + filename, "r"))
     except:
         data = generateData()
         json.dump(data, open(filename, "w"))
@@ -136,7 +136,7 @@ def downloadCountriesToPopln():
     return countryToPopulation
 
 def getCountriesSortedByPopln():
-    countryAndPopln = loadJsonFileElseGenerate("country-and-popln.json", downloadCountriesToPopln)
+    countryAndPopln = loadJsonFileElseGenerate("country-to-popln.json", downloadCountriesToPopln)
     countries = countryAndPopln.keys()
     countries = sorted(countries, key=lambda country: countryAndPopln[country], reverse=True)
     return countries
